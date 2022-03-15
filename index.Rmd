@@ -10,7 +10,7 @@ Les résultats seront présentés en utilisant les thématiques abordées par IP
 
 Ce site a pour objectif d'apporter des éléments de compréhension des résultats de l'enquête d'un point de vue spatiale et d'en dégager une géographie des perceptions des habitants de ces deux capitales européennes en temps de pandémie. Pour ce faire, l'analyse reposera sur des représentations cartographiques ainsi que sur des traitements statistiques, dont un rapide apperçu défile ci-dessous.</div>  
 
-```{r}
+```{r, echo=FALSE}
 library(slickR)
 # Afficher quelques images qui présentent l'enquête rapidement (résultats les plus frapants ?)
 ```

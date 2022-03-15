@@ -1,0 +1,19 @@
+name: "my-website"
+navbar:
+  title: "Les capitales et le Covid"
+  left:
+    - text: "Accueil"
+      href: index.html
+    - text: "Paris"
+      href: paris.html
+      icon: fa-window-restore
+    - text: "Londres"
+      href: londres.html
+    - text: "Synthèse"
+      href: synthese.html
+    - text: "À propos"
+      href: about.html
+  right:
+    - icon: fa-github
+      href: https://github.com/xxxx
+output_dir: "docs"

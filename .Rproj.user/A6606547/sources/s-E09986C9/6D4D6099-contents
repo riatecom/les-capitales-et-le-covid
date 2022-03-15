@@ -1,0 +1,69 @@
+---
+title: "Londres"
+---
+
+
+# {.tabset}
+
+<div align="justify">Sur le sol brittanique, l'enquête a pris place au sein du Grand Londres. Afin d'obtenir une maille qui soit précise et qui permette de ne pas surcharger les informations sur les cartes, une agrégation des résultats selon les *Boroughs* (ou arrondissement en français) a été privilégiée. La localisation de chaque *borough* peut être retrouvée ci-dessous.</div>  
+
+
+  
+  
+<div align="center">  ![](fig/borough.png)  </div>   
+  
+  
+Pour ce qui est de la répartition des répondants londoniens de l'enquête, on la retrouve sur la carte ci-dessous.
+![](fig/carterepondantlondres.svg)
+
+**En identifiant**
+
+
+## Qualité de vie 
+
+Un exemple de code joué directement dans le site web
+
+```{r, fig.width = 5, fig.height=6, message = FALSE, echo = FALSE}
+library(mapsf)
+m <- mf_get_mtq()
+mf_map(m)
+mf_map(m, "POP", "prop")
+```
+
+
+
+## Environnement
+
+Affichage d'une image
+
+![](fig/toto.png)
+
+
+
+## Post-covid
+
+
+
+<div class="row">
+  <div class="col-md-6" markdown="1">
+  
+![](fig/toto.png)
+    
+  </div>
+  
+  
+  <div class="col-md-6" markdown="1">
+  e coût de la vie et la criminalité sont des thèmes perçus comme plus
+préoccupants à Londres qu’à Paris même. Dans la capitale française, la
+propreté des espaces publics (routes, parcs, etc) est la deuxième
+préoccupation, alors qu’elle n’entre pas le top 10 à Londres. C’est une
+préoccupation moindre chez les habitants de la petite couronne, où la
+question du logement arrive en seconde place.
+L’immigration arrive dans les 10 principales priorités de Paris et de sa petite
+couronne, alors qu’elle n’est qu’en 17 ème position à Londres.
+Par rapport à 2019, le Brexit n’est plus si préoccupant à Londres.
+Dans la plupart des cas, les habitants de Paris et surtout de sa couronne
+affichent moins d’inquiétude que les Londoniens.ALSE
+ </div>
+</div>
+

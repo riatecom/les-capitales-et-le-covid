@@ -23,12 +23,6 @@ Pour ce qui est de la répartition des répondants londoniens de l'enquête, on 
 
 Un exemple de code joué directement dans le site web
 
-```{r, fig.width = 5, fig.height=6, message = FALSE, echo = FALSE}
-library(mapsf)
-m <- mf_get_mtq()
-mf_map(m)
-mf_map(m, "POP", "prop")
-```
 
 
 

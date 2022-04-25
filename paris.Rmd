@@ -5,13 +5,18 @@ title: "Paris"
 
 # {.tabset}
 
-<div align="justify">Du côté parisien l'enquête s'est déroulée sur un ensemble de communes du Grand Paris, ainsi que sur quelques communes en dehors de ce dernier. Pour l'analyse spatiale des résultats, une agrégation des résultats par Établissements Publics Territoriaux (EPT) de la Métropole du Grand Paris a été privilégié. Les communes présentant des réponses en dehors de la métropole ont alors été agrégées au sein d'un polygone "Hors Grand Paris" pour faciliter la lecture, comme on peut le constater sur la carte ci-dessous. </div>
 
-![](fig/parisept.png)
+![](fig/labelparis.png)
   
-  Pour la répartition des répondants, elle est assez inégale d'un point de vue spatial, notamment du fait que la moitié des répondants soient à Paris et que le reste des 502 répondants sont répartis entre les 12 entités restantes. Cependant, au vue de la population de chaque EPT cela reflète relativement une répartition effective des répondants à l'enquête.
+  
+  
+! [](fig/repondantcomparis.svg)  
+  <div align="justify"> Ci-dessus, on retrouve la répartition des répondants selon la commune dans lesquels ces derniers habitent. Plusieurs constats peuvent alors être soulevés. D'une part, il est important de souligner que pour la Ville de Paris, aucune information sur les arrondissements n'est présentée. De plus, on remarque que l'espace d'étude ne se résume pas uniquement aux limites du Grand Paris mais présente des communes de la Grande Couronne de l'Île-de-France. Enfin, hormis pour la Ville de Paris, on peut se dire qu'une analyse à l'échelle de la commune ne serait pas pertinent, notamment du fait du faible nombre d'enquêtés à cette échelle. Afin de pouvoir apporter une analyse géographique plus cohérente, le choix a donc été fait d'agréger les enquêtés en fonction des Établissements Publics Territoriaux (EPT) du Grand Paris et de regrouper les communes hors de ce dernier dans un seul polygone pour une certaine cohérence graphique.</div>
+
 
 ![](fig/repondantparis.svg)
+Pour la répartition des répondants, elle est assez inégale d'un point de vue spatial, notamment du fait que la moitié des répondants soient à Paris et que le reste des 502 répondants sont répartis entre les 12 entités restantes. Cependant, au vue de la population de chaque EPT cela reflète relativement une répartition effective des répondants à l'enquête.
+
 
 **En identifiant**
 

@@ -5,59 +5,155 @@ title: "Londres"
 
 # {.tabset}
 
-<div align="justify">Sur le sol brittanique, l'enquête a pris place au sein du Grand Londres. Afin d'obtenir une maille qui soit précise et qui permette de ne pas surcharger les informations sur les cartes, une agrégation des résultats selon les *Boroughs* (ou arrondissement en français) a été privilégiée. La localisation de chaque *borough* peut être retrouvée ci-dessous.</div>  
 
-
+![](fig/labellondres.png)
+  <br>
+  <br>
   
-  
-<div align="center">  ![](fig/borough.png)  </div>   
-  
-  
-Pour ce qui est de la répartition des répondants londoniens de l'enquête, on la retrouve sur la carte ci-dessous.
-![](fig/carterepondantlondres.svg)
+## Répondants  
+![](fig/carterepondantlondres.svg)  
+  <div align="justify">  blablabla.</div>  
+  <br>
 
-**En identifiant**
+## Enjeux selon les enquêtés 
 
-
-## Qualité de vie 
+Q1
 
 Un exemple de code joué directement dans le site web
 
+```{r, fig.width = 5, fig.height=6, message = FALSE, echo = FALSE}
+library(mapsf)
+m <- mf_get_mtq()
+mf_map(m)
+mf_map(m, "POP", "prop")
+```
 
 
 
-## Environnement
+## La vie dans son quartier pendant la Covid
 
-Affichage d'une image
+***Q22A*** 
+**Rajouter graphique qui résume la question OUI/NON/AUTRE**
 
-![](fig/toto.png)
+![](fig/Londres_Q22A_pos.svg)
+
+![](fig/Londres_Q22A_neg.svg)
+
+![](fig/Londres_Q22A_oth.svg) 
+<div align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
 
 
+## Mixité sociale et immigration
 
-## Post-covid
+Q26
+*Immigration from outside of UK*
+![](fig/Londres_GRID_Q26_1_pos.svg)
+![](fig/Londres_GRID_Q26_1_neg.svg)
+![](fig/Londres_GRID_Q26_1_oth.svg)
+<br>
+*Immigration from elsewhere within UK*
+![](fig/Londres_GRID_Q26_2_pos.svg)
+![](fig/Londres_GRID_Q26_2_neg.svg)
+![](fig/Londres_GRID_Q26_2_oth.svg)
+<br>
+*I think Londres/Ma commune needs more immigration than the present level*
+![](fig/Londres_GRID_Q26_3_pos.svg)
+![](fig/Londres_GRID_Q26_3_neg.svg)
+![](fig/Londres_GRID_Q26_3_oth.svg)
+
+## Sécurité
+
+Q33
+*Day*
+![](fig/Londres_GRID_Q33_1_pos.svg)
+![](fig/Londres_GRID_Q33_1_neg.svg)
+![](fig/Londres_GRID_Q33_1_oth.svg)
+<br>*Night*
+![](fig/Londres_GRID_Q33_2_pos.svg)
+![](fig/Londres_GRID_Q33_2_neg.svg)
+![](fig/Londres_GRID_Q33_2_oth.svg)
+
+## Travail et vie de famille  
+
+***Q11B***
+*Bon endroit pour élever ses enfants*
+![](fig/Londres_GRID_Q11B_2_pos.svg)
+![](fig/Londres_GRID_Q11B_2_neg.svg)
+![](fig/Londres_GRID_Q11B_2_oth.svg)
+<br>*Immobilier abordable pour les gens comme moi*
+![](fig/Londres_GRID_Q11B_3_pos.svg)
+![](fig/Londres_GRID_Q11B_3_neg.svg)
+![](fig/Londres_GRID_Q11B_3_oth.svg)
+<br>***QD12*** 
 
 
+## Rebondir après la pandémie
 
-<div class="row">
-  <div class="col-md-6" markdown="1">
-  
-![](fig/toto.png)
-    
-  </div>
-  
-  
-  <div class="col-md-6" markdown="1">
-  e coût de la vie et la criminalité sont des thèmes perçus comme plus
-préoccupants à Londres qu’à Paris même. Dans la capitale française, la
-propreté des espaces publics (routes, parcs, etc) est la deuxième
-préoccupation, alors qu’elle n’entre pas le top 10 à Londres. C’est une
-préoccupation moindre chez les habitants de la petite couronne, où la
-question du logement arrive en seconde place.
-L’immigration arrive dans les 10 principales priorités de Paris et de sa petite
-couronne, alors qu’elle n’est qu’en 17 ème position à Londres.
-Par rapport à 2019, le Brexit n’est plus si préoccupant à Londres.
-Dans la plupart des cas, les habitants de Paris et surtout de sa couronne
-affichent moins d’inquiétude que les Londoniens.ALSE
- </div>
-</div>
+***Q37***
+<br>*Transports publics*
+![](fig/Londres_GRID_Q37_NEW_1_pos.svg)
+![](fig/Londres_GRID_Q37_NEW_1_neg.svg)
+![](fig/Londres_GRID_Q37_NEW_1_oth.svg)
+<br> *Afordabilité des logements*
+![](fig/Londres_GRID_Q37_NEW_2_pos.svg)
+![](fig/Londres_GRID_Q37_NEW_2_neg.svg)
+![](fig/Londres_GRID_Q37_NEW_2_oth.svg)
+<br> *Opportunités d'emploi*
+![](fig/Londres_GRID_Q37_NEW_3_pos.svg)
+![](fig/Londres_GRID_Q37_NEW_3_neg.svg)
+![](fig/Londres_GRID_Q37_NEW_3_oth.svg)
+<br> *Niveaux de pollution*
+![](fig/Londres_GRID_Q37_NEW_4_pos.svg)
+![](fig/Londres_GRID_Q37_NEW_4_neg.svg)
+![](fig/Londres_GRID_Q37_NEW_4_oth.svg)
+<br> *Hospitalité*
+![](fig/Londres_GRID_Q37_NEW_5_pos.svg)
+![](fig/Londres_GRID_Q37_NEW_5_neg.svg)
+![](fig/Londres_GRID_Q37_NEW_5_oth.svg)
+<br> *Cutlure*
+![](fig/Londres_GRID_Q37_NEW_6_pos.svg)
+![](fig/Londres_GRID_Q37_NEW_6_neg.svg)
+![](fig/Londres_GRID_Q37_NEW_6_oth.svg)
+<br> *Services publics*
+![](fig/Londres_GRID_Q37_NEW_7_pos.svg)
+![](fig/Londres_GRID_Q37_NEW_7_neg.svg)
+![](fig/Londres_GRID_Q37_NEW_7_oth.svg)
 
+
+## Préoccupations environnementales  
+
+
+***Q22B*** 
+
+<br>***Q23***
+<br>*Péage urbain*
+![](fig/Londres_GRID_Q23_1_pos.svg)
+![](fig/Londres_GRID_Q23_1_neg.svg)
+![](fig/Londres_GRID_Q23_1_oth.svg)
+<br>*Plus d'infrastructures cyclistes*
+![](fig/Londres_GRID_Q23_2_pos.svg)
+![](fig/Londres_GRID_Q23_2_neg.svg)
+![](fig/Londres_GRID_Q23_2_oth.svg)
+<br>*Plus d'espaces piétons*
+![](fig/Londres_GRID_Q23_3_pos.svg)
+![](fig/Londres_GRID_Q23_3_neg.svg)
+![](fig/Londres_GRID_Q23_3_oth.svg)
+<br>*Journées sans voitures dans Londres*
+![](fig/Londres_GRID_Q23_4_pos.svg)
+![](fig/Londres_GRID_Q23_4_neg.svg)
+![](fig/Londres_GRID_Q23_4_oth.svg)
+<br>*Centre de Londres réservé aux véhicules propres*
+![](fig/Londres_GRID_Q23_5_pos.svg)
+![](fig/Londres_GRID_Q23_5_neg.svg)
+![](fig/Londres_GRID_Q23_5_oth.svg)
+<br>*Réalouer des espaces motorisés aux piétons et vélos*
+![](fig/Londres_GRID_Q23_6_pos.svg)
+![](fig/Londres_GRID_Q23_6_neg.svg)
+![](fig/Londres_GRID_Q23_6_oth.svg)
+<br>*Réduire la vitesse en zone dense*
+![](fig/Londres_GRID_Q23_7_pos.svg)
+![](fig/Londres_GRID_Q23_7_neg.svg)
+![](fig/Londres_GRID_Q23_7_oth.svg)
+
+#
+<br><a href="#top">Revenir en haut de page</a>

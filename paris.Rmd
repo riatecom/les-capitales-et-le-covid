@@ -69,21 +69,58 @@ Q26
 ## Sécurité
 
 Q33
-
+*Day*
+![](fig/Paris_GRID_Q33_1_pos.svg)
+![](fig/Paris_GRID_Q33_1_neg.svg)
+![](fig/Paris_GRID_Q33_1_oth.svg)
+<br>*Night*
+![](fig/Paris_GRID_Q33_2_pos.svg)
+![](fig/Paris_GRID_Q33_2_neg.svg)
+![](fig/Paris_GRID_Q33_2_oth.svg)
 ## Travail et vie de famille  
 
-Q11B + QD12 (tv-work) 
+***Q11B***
+*Bon endroit pour élever ses enfants*
+![](fig/Paris_GRID_Q11B_2_pos.svg)
+![](fig/Paris_GRID_Q11B_2_neg.svg)
+![](fig/Paris_GRID_Q11B_2_oth.svg)
+<br>*Immobilier abordable pour les gens comme moi*
+![](fig/Paris_GRID_Q11B_3_pos.svg)
+![](fig/Paris_GRID_Q11B_3_neg.svg)
+![](fig/Paris_GRID_Q11B_3_oth.svg)
+<br>***QD12*** 
+
 
 ## Rebondir après la pandémie
 
-Q37
+***Q37***
+<br>*Transports publics*
+<br> *Afordabilité des logements*
+<br> *Opportunités d'emploi*
+<br> *Niveaux de pollution*
+<br> *Hospitalité*
+<br> *Cutlure*
+<br> *Services publics*
+
 
 ## Préoccupations environnementales  
 
 
-Q22B / Q23
+***Q22B*** 
 
+<br>***Q23***
+<br>*Péage urbain*
 
+<br>*Plus d'infrastructures cyclistes*
 
+<br>*Plus d'espaces piétons*
+
+<br>*Journées sans voitures dans Paris*
+
+<br>*Centre de Paris réservé aux véhicules propres*
+
+<br>*Réalouer des espaces motorisés aux piétons et vélos*
+
+<br>*Réduire la vitesse en zone dense*
 #
 <br><a href="#top">Revenir en haut de page</a>

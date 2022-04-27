@@ -78,7 +78,7 @@ Q33
 ![](fig/Paris_GRID_Q33_2_neg.svg)
 ![](fig/Paris_GRID_Q33_2_oth.svg)
 
-## Travail et vie de famille  
+## Logement, travail et vie de famille  
 
 ***Q11B***
 *Bon endroit pour élever ses enfants*

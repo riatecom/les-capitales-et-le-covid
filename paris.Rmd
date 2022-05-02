@@ -19,34 +19,42 @@ title: "Paris"
 ![](fig/repondantparis.svg)
 <div align="justify">  Pour la répartition des répondants, elle est assez inégale d'un point de vue spatial, notamment du fait que la moitié des répondants soient à Paris et que le reste des 502 répondants sont répartis entre les 12 entités restantes. Cependant, au vue de la population de chaque EPT cela reflète relativement une répartition effective des répondants à l'enquête.</div>  
   <br>
+  
+  <a href="#top">Revenir en haut de page</a>
 
 ## Enjeux selon les enquêtés 
 
 Q1
 
-Un exemple de code joué directement dans le site web
-
-```{r, fig.width = 5, fig.height=6, message = FALSE, echo = FALSE}
-library(mapsf)
-m <- mf_get_mtq()
-mf_map(m)
-mf_map(m, "POP", "prop")
-```
-
-
+  
+  <a href="#top">Revenir en haut de page</a>
 
 ## La vie dans son quartier pendant la Covid
 
 ***Q22A*** 
-**Rajouter graphique qui résume la question OUI/NON/AUTRE**
+<br>
+**"How important, if at all, do you think it is that people living in Paris/votre commune have access to all of the local facilities they need within their local area, that is the area within 15-20 minutes’ walking distance from their home?"**  
+<br>
+<div align ="justify"> Cette question, se refère à la question de l'**hyper-proximité** (avoir accès à tous les services essentiels a moins de 20 min à pied de son domicile). Selon l'enquête réalisée sur le sol francilien, une très grande majorité des enquêtés pensent que cette notion est importante. Ils sont en effet **90%** à penser cela, contre **7%** à penser le contraire. </div>  
 
-![](fig/Paris_Q22A_pos.svg)
+<br>
+![](fig/Paris_Q22A_pos.svg)  
 
+<div align ="justify">La carte ci-dessus tend à prouver une certaine homogénéité territoriale pour l'importance de l'hyper proximité puisqu'en effet, l'ensemble des EPT ont une valeur proche de la moyenne de l'espace étudié. Les deux cartes ci-dessous montrent les résultats obtenus pour l'indiférence ou la non importance de cette question. On retrouve alors de gros écarts entre certains EPT, causés principalement par le faible nombre de répondants qui accentue l'effet "d'extrême".
+</div>  
+<div class="row">
+  <div class="col-md-6" markdown="1">
 ![](fig/Paris_Q22A_neg.svg)
+</div>
+  
+  
+  <div class="col-md-6" markdown="1">
+  ![](fig/Paris_Q22A_oth.svg) 
+ </div>
+</div>
 
-![](fig/Paris_Q22A_oth.svg) 
-<div align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
-
+  
+  <a href="#top">Revenir en haut de page</a>
 
 ## Mixité sociale et immigration
 
@@ -65,6 +73,8 @@ Q26
 ![](fig/Paris_GRID_Q26_3_pos.svg)
 ![](fig/Paris_GRID_Q26_3_neg.svg)
 ![](fig/Paris_GRID_Q26_3_oth.svg)
+  
+  <a href="#top">Revenir en haut de page</a>
 
 ## Sécurité
 
@@ -77,9 +87,11 @@ Q33
 ![](fig/Paris_GRID_Q33_2_pos.svg)
 ![](fig/Paris_GRID_Q33_2_neg.svg)
 ![](fig/Paris_GRID_Q33_2_oth.svg)
+<a href="#top">Revenir en haut de page</a>
 
 ## Logement, travail et vie de famille  
-
+  
+  
 ***Q11B***
 *Bon endroit pour élever ses enfants*
 ![](fig/Paris_GRID_Q11B_2_pos.svg)
@@ -90,7 +102,8 @@ Q33
 ![](fig/Paris_GRID_Q11B_3_neg.svg)
 ![](fig/Paris_GRID_Q11B_3_oth.svg)
 <br>***QD12*** 
-
+  
+  <a href="#top">Revenir en haut de page</a>
 
 ## Rebondir après la pandémie
 
@@ -123,7 +136,8 @@ Q33
 ![](fig/Paris_GRID_Q37_NEW_7_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_7_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_7_oth.svg)
-
+  
+  <a href="#top">Revenir en haut de page</a>
 
 ## Préoccupations environnementales  
 
@@ -159,5 +173,5 @@ Q33
 ![](fig/Paris_GRID_Q23_7_pos.svg)
 ![](fig/Paris_GRID_Q23_7_neg.svg)
 ![](fig/Paris_GRID_Q23_7_oth.svg)
-#
-<br><a href="#top">Revenir en haut de page</a>
+  
+  <a href="#top">Revenir en haut de page</a>

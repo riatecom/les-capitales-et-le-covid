@@ -58,46 +58,77 @@ Q1
 
 ## Mixité sociale et immigration
 
-Q26
-*Immigration from outside of France*
-![](fig/Paris_GRID_Q26_1_pos.svg)
-![](fig/Paris_GRID_Q26_1_neg.svg)
-![](fig/Paris_GRID_Q26_1_oth.svg)
+<div align ="justify">Cette partie traitera des questions migratoires dans le Grand Paris.
+</div>  
 <br>
-*Immigration from elsewhere within France*
+***Immigration from outside of France***  
+<br>
+<div align ="justify">Pour la question de l'impact positif qu'a l'immigration venant d'hors de France, on retrouve environ un tier des répondants pour les réponses proposées (les réponses "Neutre" et "Ne sait pas" ont été rassamblées pour faciliter la lecture).
+</div>
+<br>
+![](fig/Paris_GRID_Q26_1_pos.svg)
+
+<br>
+![](fig/Paris_GRID_Q26_1_neg.svg)
+
+<br>
+![](fig/Paris_GRID_Q26_1_oth.svg)
+<div align ="justify">Avec ces trois cartes, on remarque principalement que Paris, les communes hors du grand paris et l'EPT Boucle Nord Seine sont assez convaincu par le fait que l'immigration venant de l'étranger a un impact positif. *A contrario*, l'EPT Grand Sud Est Avenir, semblent contre cette idée. Les EPT Grand Orly Seine Bièvre et Paris-Marne-Est et Bois tendent a plus de neutralité vis-à-vis de cette question.
+</div>
+<br>
+***Immigration from elsewhere within France***
+<br>
+<div align ="justify">Pour la question de l'impact positif qu'a l'immigration venant d'ailleurs en France, environ la moitié des répondants sont neutres ou ne savent pas (**48%**), un tier (**34%**) pensent qu'elle a un impact positif, et le reste (**18%**) pensent le contraire.
+</div>
+<br>
 ![](fig/Paris_GRID_Q26_2_pos.svg)
 ![](fig/Paris_GRID_Q26_2_neg.svg)
 ![](fig/Paris_GRID_Q26_2_oth.svg)
+<div align ="justify">On peut soulever le fait que la Ville de Paris reste assez neutre quant à cette question mais tend à dire que l'immigration venant d'ailleurs en France a un impact positif.Les EPT situés au Nord, au Nord-Ouest et à l'Est du territoire du Grand Paris semblent quant à eux plutôt en désaccord avec cette idée. 
+</div>
 <br>
-*I think Paris/Ma commune needs more immigration than the present level*
+***I think Paris/Ma commune needs more immigration than the present level***
+<div align ="justify">Pour cette question, une majorité des répondants (**52%**) pensent qu'il ne faut pas plus d'immigration dans leur commune. A l'opposé, seulement **15%** des enquêtés pensent qu'il faut plus d'immigration dans leur commune.</div>
+<br>
 ![](fig/Paris_GRID_Q26_3_pos.svg)
 ![](fig/Paris_GRID_Q26_3_neg.svg)
 ![](fig/Paris_GRID_Q26_3_oth.svg)
-  
+<div align ="justify">Les EPT à l'ouest de Paris et l'EPT Grand Paris Sud Est Avenir tendent à confirmer la tendance général puisqu'ils sont clairement en défaveur d'une augmentation de l'immigration. *A contrario*, les EPT Est Ensemble, Boucle Nord de Seine et les communes hors du Grand Paris pensent assez nettement qu'il faut plus d'immigration.
+Le reste des EPT semblent être assez neutre à cette question, ou du moins présentent un équilibre entre les réponses positives, neutres et négatives.</div>
+<br>
+
   <a href="#top">Revenir en haut de page</a>
 
 ## Sécurité
 
-Q33
-*Day*
+*Q33. How safe do you feel walking alone in your local area…**
+***Day***
+<div align ="justify">L'immense majorité des répondants se sentent en sécurité la journée dans leur quartier. Avec les cartes présentés ci-dessous on note cependant que l'EPT Plaine Commune présente une immense majorité de réponse négative
+</div>
+<br>
 ![](fig/Paris_GRID_Q33_1_pos.svg)
 ![](fig/Paris_GRID_Q33_1_neg.svg)
 ![](fig/Paris_GRID_Q33_1_oth.svg)
-<br>*Night*
+<br>
+***Night***
+<div align ="justify">En opposition avec la journée, on retrouve une perte du sentiment de sécurité la nuit dans les quartiers des répondants puisqu'on passe de **84%** en journée à **52%** la nuit. On retrouve cependant le sentiment d'insécurité à Plaine Commune ainsi qu'à Est Ensemble. Les EPT de l'Ouest se sentent quant à eux davantage en sécurité en comparaison avec l'ensemble de l'espace étudié (là où il y avait une certaine homogénéité en journée).
+</div>
+<br>
 ![](fig/Paris_GRID_Q33_2_pos.svg)
 ![](fig/Paris_GRID_Q33_2_neg.svg)
 ![](fig/Paris_GRID_Q33_2_oth.svg)
 <a href="#top">Revenir en haut de page</a>
 
 ## Logement, travail et vie de famille  
-  
-  
-***Q11B***
-*Bon endroit pour élever ses enfants*
+
+***Q11B. Thinking now about living in Paris/votre commune, to what extent do you agree or disagree with the following statements?***
+<br>
+**L'immobilier dans ma commune est abordable pour les gens comme moi **
+<br>
 ![](fig/Paris_GRID_Q11B_2_pos.svg)
 ![](fig/Paris_GRID_Q11B_2_neg.svg)
 ![](fig/Paris_GRID_Q11B_2_oth.svg)
-<br>*Immobilier abordable pour les gens comme moi*
+<br>**L'accès à la propriété est trop cher pour les gens comme moi**
 ![](fig/Paris_GRID_Q11B_3_pos.svg)
 ![](fig/Paris_GRID_Q11B_3_neg.svg)
 ![](fig/Paris_GRID_Q11B_3_oth.svg)
@@ -112,7 +143,7 @@ Q33
 ![](fig/Paris_GRID_Q37_NEW_1_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_1_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_1_oth.svg)
-<br> *Afordabilité des logements*
+<br> *Abordabilité des logements*
 ![](fig/Paris_GRID_Q37_NEW_2_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_2_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_2_oth.svg)

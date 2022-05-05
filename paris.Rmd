@@ -103,7 +103,7 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
 
 *Q33. How safe do you feel walking alone in your local area…**
 ***Day***
-<div align ="justify">L'immense majorité des répondants se sentent en sécurité la journée dans leur quartier. Avec les cartes présentés ci-dessous on note cependant que l'EPT Plaine Commune présente une immense majorité de réponse négative
+<div align ="justify">L'immense majorité des répondants se sentent en sécurité la journée dans leur quartier. Avec les cartes présentés ci-dessous on note cependant que l'EPT Plaine Commune présente une immense majorité de réponse négative.
 </div>
 <br>
 ![](fig/Paris_GRID_Q33_1_pos.svg)
@@ -139,31 +139,31 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
 ## Rebondir après la pandémie
 
 ***Q37***
-<br>*Transports publics*
+<br>**Transports publics**
 ![](fig/Paris_GRID_Q37_NEW_1_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_1_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_1_oth.svg)
-<br> *Abordabilité des logements*
+<br> **Abordabilité des logements**
 ![](fig/Paris_GRID_Q37_NEW_2_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_2_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_2_oth.svg)
-<br> *Opportunités d'emploi*
+<br> **Opportunités d'emploi**
 ![](fig/Paris_GRID_Q37_NEW_3_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_3_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_3_oth.svg)
-<br> *Niveaux de pollution*
+<br> **Niveaux de pollution**
 ![](fig/Paris_GRID_Q37_NEW_4_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_4_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_4_oth.svg)
-<br> *Hospitalité*
+<br> **Hospitalité**
 ![](fig/Paris_GRID_Q37_NEW_5_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_5_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_5_oth.svg)
-<br> *Cutlure*
+<br> **Cutlure**
 ![](fig/Paris_GRID_Q37_NEW_6_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_6_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_6_oth.svg)
-<br> *Services publics*
+<br> **Services publics**
 ![](fig/Paris_GRID_Q37_NEW_7_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_7_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_7_oth.svg)
@@ -176,33 +176,37 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
 ***Q22B*** 
 
 <br>***Q23***
-<br>*Péage urbain*
+<br>**Péage urbain la semaine**
 ![](fig/Paris_GRID_Q23_1_pos.svg)
 ![](fig/Paris_GRID_Q23_1_neg.svg)
 ![](fig/Paris_GRID_Q23_1_oth.svg)
-<br>*Plus d'infrastructures cyclistes*
+<br>**Encourager à ne pas utiliser sa voiture pour aller au travail ou à l'école**
 ![](fig/Paris_GRID_Q23_2_pos.svg)
 ![](fig/Paris_GRID_Q23_2_neg.svg)
 ![](fig/Paris_GRID_Q23_2_oth.svg)
-<br>*Plus d'espaces piétons*
+<br>**Financer plus d'infrastructures pour vélos**
 ![](fig/Paris_GRID_Q23_3_pos.svg)
 ![](fig/Paris_GRID_Q23_3_neg.svg)
 ![](fig/Paris_GRID_Q23_3_oth.svg)
-<br>*Journées sans voitures dans Paris*
+<br>**Financer plus d'espaces piétons**
 ![](fig/Paris_GRID_Q23_4_pos.svg)
 ![](fig/Paris_GRID_Q23_4_neg.svg)
 ![](fig/Paris_GRID_Q23_4_oth.svg)
-<br>*Centre de Paris réservé aux véhicules propres*
+<br>**Introduire plus de journées sans voiture dans Paris**
 ![](fig/Paris_GRID_Q23_5_pos.svg)
 ![](fig/Paris_GRID_Q23_5_neg.svg)
 ![](fig/Paris_GRID_Q23_5_oth.svg)
-<br>*Réalouer des espaces motorisés aux piétons et vélos*
+<br>**N'autoriser seulement que les véhicules propres certains jours à Paris**
 ![](fig/Paris_GRID_Q23_6_pos.svg)
 ![](fig/Paris_GRID_Q23_6_neg.svg)
 ![](fig/Paris_GRID_Q23_6_oth.svg)
-<br>*Réduire la vitesse en zone dense*
+<br>**Réalouer de l'espace réservé à l'automobile pour les cyclistes et piétons**
 ![](fig/Paris_GRID_Q23_7_pos.svg)
 ![](fig/Paris_GRID_Q23_7_neg.svg)
 ![](fig/Paris_GRID_Q23_7_oth.svg)
-  
+<br>**Réduire la vitesse de circulation dans les zones denses**
+![](fig/Paris_GRID_Q23_8_pos.svg) 
+![](fig/Paris_GRID_Q23_8_neg.svg)
+![](fig/Paris_GRID_Q23_8_oth.svg)
+
   <a href="#top">Revenir en haut de page</a>

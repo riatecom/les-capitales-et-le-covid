@@ -13,7 +13,7 @@
 
 <title>Paris</title>
 
-<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -62,7 +62,6 @@ if (window.hljs) {
 
 
 
-
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -83,9 +82,6 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
-}
-details > summary > p:only-child {
-  display: inline;
 }
 pre code {
   padding: 0;
@@ -238,7 +234,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -251,11 +247,7 @@ $(document).ready(function () {
   <a href="index.html">Accueil</a>
 </li>
 <li>
-  <a href="paris.html">
-    <span class="fa fa-window-restore"></span>
-     
-    Paris
-  </a>
+  <a href="paris.html">Paris</a>
 </li>
 <li>
   <a href="londres.html">Londres</a>
@@ -424,7 +416,7 @@ src="fig/Paris_GRID_Q26_3_oth.svg" />
 <div align="justify">
 Les EPT à l’ouest de Paris et l’EPT Grand Paris Sud Est Avenir tendent à
 confirmer la tendance général puisqu’ils sont clairement en défaveur
-d’une augmentation de l’immigration.<em>A contrario</em>, les EPT Est
+d’une augmentation de l’immigration. <em>A contrario</em>, les EPT Est
 Ensemble, Boucle Nord de Seine et les communes hors du Grand Paris
 pensent assez nettement qu’il faut plus d’immigration. Le reste des EPT
 semblent être assez neutre à cette question, ou du moins présentent un
@@ -435,21 +427,43 @@ semblent être assez neutre à cette question, ou du moins présentent un
 </div>
 <div id="sécurité" class="section level2">
 <h2>Sécurité</h2>
-<p>Q33 <em>Day</em> <img src="fig/Paris_GRID_Q33_1_pos.svg" /> <img
+<em>Q33. How safe do you feel walking alone in your local area…<strong>
+</strong></em>Day***
+<div align="justify">
+<p>L’immense majorité des répondants se sentent en sécurité la journée
+dans leur quartier. Avec les cartes présentés ci-dessous on note
+cependant que l’EPT Plaine Commune présente une immense majorité de
+réponse négative.</p>
+</div>
+<br> <img src="fig/Paris_GRID_Q33_1_pos.svg" /> <img
 src="fig/Paris_GRID_Q33_1_neg.svg" /> <img
-src="fig/Paris_GRID_Q33_1_oth.svg" /> <br><em>Night</em> <img
-src="fig/Paris_GRID_Q33_2_pos.svg" /> <img
+src="fig/Paris_GRID_Q33_1_oth.svg" /> <br>
+<strong><em>Night</em></strong>
+<div align="justify">
+<p>En opposition avec la journée, on retrouve une perte du sentiment de
+sécurité la nuit dans les quartiers des répondants puisqu’on passe de
+<strong>84%</strong> en journée à <strong>52%</strong> la nuit. On
+retrouve cependant le sentiment d’insécurité à Plaine Commune ainsi qu’à
+Est Ensemble. Les EPT de l’Ouest se sentent quant à eux davantage en
+sécurité en comparaison avec l’ensemble de l’espace étudié (là où il y
+avait une certaine homogénéité en journée).</p>
+</div>
+<p><br> <img src="fig/Paris_GRID_Q33_2_pos.svg" /> <img
 src="fig/Paris_GRID_Q33_2_neg.svg" /> <img
 src="fig/Paris_GRID_Q33_2_oth.svg" /> <a href="#top">Revenir en haut de
 page</a></p>
 </div>
 <div id="logement-travail-et-vie-de-famille" class="section level2">
 <h2>Logement, travail et vie de famille</h2>
-<p><strong><em>Q11B</em></strong> <em>Bon endroit pour élever ses
-enfants</em> <img src="fig/Paris_GRID_Q11B_2_pos.svg" /> <img
+<p><strong><em>Q11B. Thinking now about living in Paris/votre commune,
+to what extent do you agree or disagree with the following
+statements?</em></strong> <br> <strong>L’immobilier dans ma commune est
+abordable pour les gens comme moi </strong> <br> <img
+src="fig/Paris_GRID_Q11B_2_pos.svg" /> <img
 src="fig/Paris_GRID_Q11B_2_neg.svg" /> <img
-src="fig/Paris_GRID_Q11B_2_oth.svg" /> <br><em>Immobilier abordable pour
-les gens comme moi</em> <img src="fig/Paris_GRID_Q11B_3_pos.svg" /> <img
+src="fig/Paris_GRID_Q11B_2_oth.svg" /> <br><strong>L’accès à la
+propriété est trop cher pour les gens comme moi</strong> <img
+src="fig/Paris_GRID_Q11B_3_pos.svg" /> <img
 src="fig/Paris_GRID_Q11B_3_neg.svg" /> <img
 src="fig/Paris_GRID_Q11B_3_oth.svg" />
 <br><strong><em>QD12</em></strong></p>
@@ -457,26 +471,27 @@ src="fig/Paris_GRID_Q11B_3_oth.svg" />
 </div>
 <div id="rebondir-après-la-pandémie" class="section level2">
 <h2>Rebondir après la pandémie</h2>
-<p><strong><em>Q37</em></strong> <br><em>Transports publics</em> <img
-src="fig/Paris_GRID_Q37_NEW_1_pos.svg" /> <img
+<p><strong><em>Q37</em></strong> <br><strong>Transports publics</strong>
+<img src="fig/Paris_GRID_Q37_NEW_1_pos.svg" /> <img
 src="fig/Paris_GRID_Q37_NEW_1_neg.svg" /> <img
-src="fig/Paris_GRID_Q37_NEW_1_oth.svg" /> <br> <em>Afordabilité des
-logements</em> <img src="fig/Paris_GRID_Q37_NEW_2_pos.svg" /> <img
+src="fig/Paris_GRID_Q37_NEW_1_oth.svg" /> <br> <strong>Abordabilité des
+logements</strong> <img src="fig/Paris_GRID_Q37_NEW_2_pos.svg" /> <img
 src="fig/Paris_GRID_Q37_NEW_2_neg.svg" /> <img
-src="fig/Paris_GRID_Q37_NEW_2_oth.svg" /> <br> <em>Opportunités
-d’emploi</em> <img src="fig/Paris_GRID_Q37_NEW_3_pos.svg" /> <img
+src="fig/Paris_GRID_Q37_NEW_2_oth.svg" /> <br> <strong>Opportunités
+d’emploi</strong> <img src="fig/Paris_GRID_Q37_NEW_3_pos.svg" /> <img
 src="fig/Paris_GRID_Q37_NEW_3_neg.svg" /> <img
-src="fig/Paris_GRID_Q37_NEW_3_oth.svg" /> <br> <em>Niveaux de
-pollution</em> <img src="fig/Paris_GRID_Q37_NEW_4_pos.svg" /> <img
+src="fig/Paris_GRID_Q37_NEW_3_oth.svg" /> <br> <strong>Niveaux de
+pollution</strong> <img src="fig/Paris_GRID_Q37_NEW_4_pos.svg" /> <img
 src="fig/Paris_GRID_Q37_NEW_4_neg.svg" /> <img
-src="fig/Paris_GRID_Q37_NEW_4_oth.svg" /> <br> <em>Hospitalité</em> <img
+src="fig/Paris_GRID_Q37_NEW_4_oth.svg" /> <br>
+<strong>Hospitalité</strong> <img
 src="fig/Paris_GRID_Q37_NEW_5_pos.svg" /> <img
 src="fig/Paris_GRID_Q37_NEW_5_neg.svg" /> <img
-src="fig/Paris_GRID_Q37_NEW_5_oth.svg" /> <br> <em>Cutlure</em> <img
-src="fig/Paris_GRID_Q37_NEW_6_pos.svg" /> <img
+src="fig/Paris_GRID_Q37_NEW_5_oth.svg" /> <br> <strong>Cutlure</strong>
+<img src="fig/Paris_GRID_Q37_NEW_6_pos.svg" /> <img
 src="fig/Paris_GRID_Q37_NEW_6_neg.svg" /> <img
-src="fig/Paris_GRID_Q37_NEW_6_oth.svg" /> <br> <em>Services publics</em>
-<img src="fig/Paris_GRID_Q37_NEW_7_pos.svg" /> <img
+src="fig/Paris_GRID_Q37_NEW_6_oth.svg" /> <br> <strong>Services
+publics</strong> <img src="fig/Paris_GRID_Q37_NEW_7_pos.svg" /> <img
 src="fig/Paris_GRID_Q37_NEW_7_neg.svg" /> <img
 src="fig/Paris_GRID_Q37_NEW_7_oth.svg" /></p>
 <p><a href="#top">Revenir en haut de page</a></p>
@@ -484,29 +499,37 @@ src="fig/Paris_GRID_Q37_NEW_7_oth.svg" /></p>
 <div id="préoccupations-environnementales" class="section level2">
 <h2>Préoccupations environnementales</h2>
 <p><strong><em>Q22B</em></strong></p>
-<p><br><strong><em>Q23</em></strong> <br><em>Péage urbain</em> <img
-src="fig/Paris_GRID_Q23_1_pos.svg" /> <img
+<p><br><strong><em>Q23</em></strong> <br><strong>Péage urbain la
+semaine</strong> <img src="fig/Paris_GRID_Q23_1_pos.svg" /> <img
 src="fig/Paris_GRID_Q23_1_neg.svg" /> <img
-src="fig/Paris_GRID_Q23_1_oth.svg" /> <br><em>Plus d’infrastructures
-cyclistes</em> <img src="fig/Paris_GRID_Q23_2_pos.svg" /> <img
+src="fig/Paris_GRID_Q23_1_oth.svg" /> <br><strong>Encourager à ne pas
+utiliser sa voiture pour aller au travail ou à l’école</strong> <img
+src="fig/Paris_GRID_Q23_2_pos.svg" /> <img
 src="fig/Paris_GRID_Q23_2_neg.svg" /> <img
-src="fig/Paris_GRID_Q23_2_oth.svg" /> <br><em>Plus d’espaces
-piétons</em> <img src="fig/Paris_GRID_Q23_3_pos.svg" /> <img
+src="fig/Paris_GRID_Q23_2_oth.svg" /> <br><strong>Financer plus
+d’infrastructures pour vélos</strong> <img
+src="fig/Paris_GRID_Q23_3_pos.svg" /> <img
 src="fig/Paris_GRID_Q23_3_neg.svg" /> <img
-src="fig/Paris_GRID_Q23_3_oth.svg" /> <br><em>Journées sans voitures
-dans Paris</em> <img src="fig/Paris_GRID_Q23_4_pos.svg" /> <img
-src="fig/Paris_GRID_Q23_4_neg.svg" /> <img
-src="fig/Paris_GRID_Q23_4_oth.svg" /> <br><em>Centre de Paris réservé
-aux véhicules propres</em> <img src="fig/Paris_GRID_Q23_5_pos.svg" />
-<img src="fig/Paris_GRID_Q23_5_neg.svg" /> <img
-src="fig/Paris_GRID_Q23_5_oth.svg" /> <br><em>Réalouer des espaces
-motorisés aux piétons et vélos</em> <img
+src="fig/Paris_GRID_Q23_3_oth.svg" /> <br><strong>Financer plus
+d’espaces piétons</strong> <img src="fig/Paris_GRID_Q23_4_pos.svg" />
+<img src="fig/Paris_GRID_Q23_4_neg.svg" /> <img
+src="fig/Paris_GRID_Q23_4_oth.svg" /> <br><strong>Introduire plus de
+journées sans voiture dans Paris</strong> <img
+src="fig/Paris_GRID_Q23_5_pos.svg" /> <img
+src="fig/Paris_GRID_Q23_5_neg.svg" /> <img
+src="fig/Paris_GRID_Q23_5_oth.svg" /> <br><strong>N’autoriser seulement
+que les véhicules propres certains jours à Paris</strong> <img
 src="fig/Paris_GRID_Q23_6_pos.svg" /> <img
 src="fig/Paris_GRID_Q23_6_neg.svg" /> <img
-src="fig/Paris_GRID_Q23_6_oth.svg" /> <br><em>Réduire la vitesse en zone
-dense</em> <img src="fig/Paris_GRID_Q23_7_pos.svg" /> <img
+src="fig/Paris_GRID_Q23_6_oth.svg" /> <br><strong>Réalouer de l’espace
+réservé à l’automobile pour les cyclistes et piétons</strong> <img
+src="fig/Paris_GRID_Q23_7_pos.svg" /> <img
 src="fig/Paris_GRID_Q23_7_neg.svg" /> <img
-src="fig/Paris_GRID_Q23_7_oth.svg" /></p>
+src="fig/Paris_GRID_Q23_7_oth.svg" /> <br><strong>Réduire la vitesse de
+circulation dans les zones denses</strong> <img
+src="fig/Paris_GRID_Q23_8_pos.svg" /> <img
+src="fig/Paris_GRID_Q23_8_neg.svg" /> <img
+src="fig/Paris_GRID_Q23_8_oth.svg" /></p>
 <p><a href="#top">Revenir en haut de page</a></p>
 </div>
 </div>

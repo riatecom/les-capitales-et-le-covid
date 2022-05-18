@@ -6,15 +6,9 @@ title: "Comment les habitants de Londres et du Grand Paris voient le futur de le
 Les résultats généraux de l'enquête peuvent être retrouvés sur le site d'<a href="https://www.ipsos.com/fr-fr/les-habitants-de-paris-et-londres-pensent-que-leur-ville-va-rebondir-apres-la-covid/">IPSOS</a>.  
   
 L'enquête s'est déroulée entre le 26 avril et le 17 mai 2021 sur un échantillon représentatif (selon la méthode des quotas) de 1002 habitants du **Grand Paris** et de 1000 habitants de **Londres**, âgés de 18 ans et plus.  
-Les résultats seront présentés en utilisant les thématiques abordées par IPSOS commme fil directeur de l'étude.
+Les résultats seront présentés en utilisant les thématiques abordées par IPSOS commme fil directeur de l'étude et en se focalisant sur les questions pré-sélectionnées par Renaud Le Goix lors de ces différentes présentations de l'enquête.
 
-Ce site a pour objectif d'apporter des éléments de compréhension des résultats de l'enquête d'un point de vue spatiale et d'en dégager une géographie des perceptions des habitants de ces deux capitales européennes en temps de pandémie. Pour ce faire, l'analyse reposera sur des représentations cartographiques ainsi que sur des traitements statistiques, dont un rapide apperçu défile ci-dessous.</div>  
-
-```{r, echo=FALSE}
-library(slickR)
-# Afficher quelques images qui présentent l'enquête rapidement (résultats les plus frapants ?)
-```
-
+Ce site a pour objectif d'apporter des éléments de compréhension des résultats de l'enquête d'un point de vue spatiale et d'en dégager une géographie des perceptions des habitants de ces deux capitales européennes après la pandémie. Pour ce faire, l'analyse reposera principalement sur des représentations cartographiques ainsi que sur quelques traitements statistiques.</div>  
 
 
 

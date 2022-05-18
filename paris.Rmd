@@ -111,7 +111,7 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
 ![](fig/Paris_GRID_Q33_1_oth.svg)
 <br>
 ***Night***
-<div align ="justify">En opposition avec la journée, on retrouve une perte du sentiment de sécurité la nuit dans les quartiers des répondants puisqu'on passe de **84%** en journée à **52%** la nuit. On retrouve cependant le sentiment d'insécurité à Plaine Commune ainsi qu'à Est Ensemble. Les EPT de l'Ouest se sentent quant à eux davantage en sécurité en comparaison avec l'ensemble de l'espace étudié (là où il y avait une certaine homogénéité en journée).
+<div align ="justify">En opposition avec la journée, on retrouve une perte du sentiment de sécurité la nuit dans les quartiers des répondants puisqu'on passe de **84%** en journée à **52%** la nuit. On retrouve cependant le sentiment d'insécurité à Plaine Commune ainsi qu'à Est Ensemble. Les EPT de l'Ouest se sentent quant à eux davantage en sécurité en comparaison avec l'ensemble de l'espace étudié (là où il y avait une relative homogénéité en journée).
 </div>
 <br>
 ![](fig/Paris_GRID_Q33_2_pos.svg)

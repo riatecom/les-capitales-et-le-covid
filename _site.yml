@@ -6,7 +6,6 @@ navbar:
       href: index.html
     - text: "Paris"
       href: paris.html
-      icon: fa-window-restore
     - text: "Londres"
       href: londres.html
     - text: "Synthèse"

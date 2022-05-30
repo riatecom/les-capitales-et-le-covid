@@ -142,11 +142,13 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
   <a href="#top">Revenir en haut de page</a>
 
 ## Rebondir après la pandémie
-<div align ="justify"> Cette série de question a pour objectif de montrer l'optimisme des parisiens après la pandémie vis à vis de différentes thématiques.
+<div align ="justify"> Cette série de question a pour objectif de montrer l'optimisme des parisiens après la pandémie vis à vis de différentes thématiques. 
 </div> 
 ***Q37***
 <br>**Transports publics**
 <br>
+<div align ="justify">Pour ce qui est des transports publics, **45%** des répondants pensent que la situation va rester identique après la pandémie, **35%** qu'elle va s'améliorer, et **20%** qu'elle va se détériorer.
+</div>
 ![](fig/Paris_GRID_Q37_NEW_1_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_1_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_1_oth.svg)

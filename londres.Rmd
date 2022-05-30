@@ -17,7 +17,9 @@ title: "Londres"
 
 ## Enjeux selon les enquêtés 
 
-Q1
+![](fig/london_issue1.svg)
+![](fig/london_issue2.svg)
+
 
 Un exemple de code joué directement dans le site web
 

@@ -111,7 +111,7 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
 ![](fig/Paris_GRID_Q33_1_oth.svg)
 <br>
 ***Night***
-<div align ="justify">En opposition avec la journée, on retrouve une perte du sentiment de sécurité la nuit dans les quartiers des répondants puisqu'on passe de **84%** en journée à **52%** la nuit. On retrouve cependant le sentiment d'insécurité à Plaine Commune ainsi qu'à Est Ensemble. Les EPT de l'Ouest se sentent quant à eux davantage en sécurité en comparaison avec l'ensemble de l'espace étudié (là où il y avait une relative homogénéité en journée).
+<div align ="justify">En opposition avec la journée, on retrouve une perte du sentiment de sécurité la nuit dans les quartiers des répondants puisqu'on passe de **84%** en journée à **52%** la nuit. On retrouve cependant le sentiment d'insécurité à Plaine Commune et à Est Ensemble. Les EPT de l'Ouest se sentent quant à eux davantage en sécurité en comparaison avec l'ensemble de l'espace étudié (là où il y avait une relative homogénéité en journée).
 </div>
 <br>
 ![](fig/Paris_GRID_Q33_2_pos.svg)
@@ -123,12 +123,17 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
 
 ***Q11B. Thinking now about living in Paris/votre commune, to what extent do you agree or disagree with the following statements?***
 <br>
-**L'immobilier dans ma commune est abordable pour les gens comme moi **
+***L'immobilier dans ma commune est abordable pour les gens comme moi ***
 <br>
+<div align ="justify">Une majorité des répondants (**52%**) pensent que leur commune n'offre pas des logements abordables pour les gens partageant le même profil qu'eux. Ce sentiment est légèrement plus présent au sein de la Ville de Paris et les EPT Boucle Nord de Seine, Est Ensemble et Grand Paris Seine Ouest. Un sentiment qui peut être causé par les marchés immobilliers sous tension dans ces EPT. *A contrario* l'EPT Grand Paris Sud Est Avenir et les communes hors du Grand Paris ont davantage le sentiment que leur commune est abordable pour les gens comme eux. 
+</div>
 ![](fig/Paris_GRID_Q11B_2_pos.svg)
 ![](fig/Paris_GRID_Q11B_2_neg.svg)
 ![](fig/Paris_GRID_Q11B_2_oth.svg)
-<br>**L'accès à la propriété est trop cher pour les gens comme moi**
+<br>***L'accès à la propriété est trop cher pour les gens comme moi***
+<br>
+<div align ="justify"> La question de l'accès à la propriété a un résultat plus tranché puisque **76%** des répondants pensent qu'il est trop cher selon leur profil. Il s'agit d'un sentiment qu'on retrouve unanimement sur le territoire de l'enquête puisque l'ensemble des EPT, à l'exception des communes Hors du Grand Paris, présentent des résultats proche de la moyenne de l'espace d'étude. Les répondants hors du Grand Paris semblent même dire que l'accès à la propriété est abordable pour les gens comme eux. Un sentiment logique compte tenu de prix de l'immobilier inférieur qu'en petite couronne.
+</div>
 ![](fig/Paris_GRID_Q11B_3_pos.svg)
 ![](fig/Paris_GRID_Q11B_3_neg.svg)
 ![](fig/Paris_GRID_Q11B_3_oth.svg)
@@ -137,7 +142,8 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
   <a href="#top">Revenir en haut de page</a>
 
 ## Rebondir après la pandémie
-
+<div align ="justify"> Cette série de question a pour objectif de montrer l'optimisme des parisiens après la pandémie vis à vis de différentes thématiques.
+</div> 
 ***Q37***
 <br>**Transports publics**
 <br>

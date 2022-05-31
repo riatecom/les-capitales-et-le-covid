@@ -21,15 +21,6 @@ title: "Londres"
 ![](fig/london_issue2.svg)
 
 
-Un exemple de code joué directement dans le site web
-
-```{r, fig.width = 5, fig.height=6, message = FALSE, echo = FALSE}
-library(mapsf)
-m <- mf_get_mtq()
-mf_map(m)
-mf_map(m, "POP", "prop")
-```
-
 
 
 ## La vie dans son quartier pendant la Covid
@@ -44,6 +35,15 @@ mf_map(m, "POP", "prop")
 ![](fig/Londres_Q22A_oth.svg) 
 <div align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
 
+  <a href="#top">Revenir en haut de page</a>
+
+## Quitter les grandes villes après le Covid ?
+
+***Q14A : How likely, if at all, is it that you will move out of Paris/votre commune in the next five years?***
+<br>
+![](fig/Londres_Q14a_pos.svg)
+![](fig/Londres_Q14a_neg.svg)
+![](fig/Londres_Q14a_oth.svg)
 
 ## Mixité sociale et immigration
 

@@ -42,6 +42,7 @@ title: "Paris"
 ![](fig/Paris_Q22A_pos.svg)  
 
 <div align ="justify">La carte ci-dessus tend à prouver une certaine homogénéité territoriale pour l'importance de l'hyper proximité puisqu'en effet, l'ensemble des EPT ont une valeur proche de la moyenne de l'espace étudié. Les deux cartes ci-dessous montrent les résultats obtenus pour l'indiférence ou la non importance de cette question. On retrouve alors de gros écarts entre certains EPT, causés principalement par le faible nombre de répondants qui accentue l'effet "d'extrême".
+Parler du fait que le covid et les confinements ont fait qu'on devait vivre a 1km de chez soi, renforcer ce sentiment d'avoir tout à proximité (cf. IPR)
 </div>  
 <div class="row">
   <div class="col-md-6" markdown="1">
@@ -54,7 +55,21 @@ title: "Paris"
  </div>
 </div>
 
-  
+  <a href="#top">Revenir en haut de page</a>
+
+## Quitter les grandes villes après le Covid ?
+
+
+***Q14A : How likely, if at all, is it that you will move out of Paris/votre commune in the next five years?***
+<br>
+
+![](fig/paris_q14a_pos.svg)
+![](fig/paris_q14a_neg.svg)
+![](fig/paris_q14a_oth.svg)
+<br>
+***Q14B : For which of the following reasons, if any, are you considering leaving Paris/votre commune?***
+ACP 
+
   <a href="#top">Revenir en haut de page</a>
 
 ## Mixité sociale et immigration
@@ -102,9 +117,9 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
 
 ## Sécurité
 
-*Q33. How safe do you feel walking alone in your local area…**
+***Q33. How safe do you feel walking alone in your local area…***
 ***Day***
-<div align ="justify">L'immense majorité des répondants se sentent en sécurité la journée dans leur quartier. Avec les cartes présentés ci-dessous on note cependant que l'EPT Plaine Commune présente une immense majorité de réponse négative.
+<div align ="justify">L'immense majorité des répondants se sentent en sécurité la journée dans leur quartier. Avec les cartes présentés ci-dessous on note cependant que l'EPT Plaine Commune présente une immense majorité de réponses négatives.
 </div>
 <br>
 ![](fig/Paris_GRID_Q33_1_pos.svg)
@@ -151,10 +166,15 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
 <div align ="justify">Pour ce qui est des transports publics, **45%** des répondants pensent que la situation va rester identique après la pandémie, **35%** qu'elle va s'améliorer, et **20%** qu'elle va se détériorer.
 </div>
 ![](fig/Paris_GRID_Q37_NEW_1_pos.svg)
+<br>
+<div align ="justify">Il est important de soulever que les EPT à l'ouest, au sud ouest et au sud semblent davantage optimistes vis à vis des transports publics, un sentiment qui peut, peut-être, se justifier par le Grand Paris Express et un meilleur accueil de ce dernier dans cette zone plutôt qu'au nord et à l'est de la capitale.
+</div>
 ![](fig/Paris_GRID_Q37_NEW_1_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_1_oth.svg)
 <br> **Abordabilité des logements**
 <br>
+<div align ="justify">Contrairement aux transports, **55%** des répondants pensent que l'abordabilité des logements va se détériorer dans le futur, et seulement **12%** des enquêtes sont optimistes. Ce qui flagrant est le grand pessimisme et le très faible optimiste que l'EPT Grand-Orly Seine Bièvre, en opposition avec Paris Ouest La Défense ou l'Hors Grand Paris.
+</div>
 ![](fig/Paris_GRID_Q37_NEW_2_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_2_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_2_oth.svg)
@@ -182,6 +202,7 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
 ![](fig/Paris_GRID_Q37_NEW_7_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_7_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_7_oth.svg)
+OU ON EST OPTIMISTE ET OU ON NE L'EST PAS ????
   
   <a href="#top">Revenir en haut de page</a>
 

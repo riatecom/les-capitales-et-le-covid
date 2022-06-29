@@ -27,19 +27,16 @@ title: "Londres"
 ![](fig/london_issue2.svg)
 
 
-
-
 ## La vie dans son quartier pendant la Covid
 
 ***Q22A*** 
-**Rajouter graphique qui résume la question OUI/NON/AUTRE**
 
 ![](fig/Londres_Q22A_pos.svg)
 
 ![](fig/Londres_Q22A_neg.svg)
 
 ![](fig/Londres_Q22A_oth.svg) 
-<div align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+<div align="justify">Tout comme la capitale française, Londres présente un important taux de réponse positive quant à la question de l'importance de l'hyperproximité, en effet ***92%*** des répondants pensent qu'il s'agit d'un aspect important dans leur vie. On retrouve alors une certaine homogénéité vis à vis de l'écart à la moyenne pour la première carte, et des résultats plus disparates sur les cartes suivantes, dû notamment au faible nombre d'enquêtés qui sont contre, ou neutre vis à vis de cette importance. </div>
 
   <a href="#top">Revenir en haut de page</a>
 

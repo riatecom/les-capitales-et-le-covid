@@ -12,12 +12,18 @@ title: "Londres"
   
 ## Répondants  
 ![](fig/carterepondantlondres.svg)  
-  <div align="justify">  blablabla.</div>  
+<br>
+  <div align="justify">Dans le cas londonien, les répondants ont été réparti de façon à ce cela représente, à quelques exceptions près, à la répartition de la population sur l'ensemble du territoire de la capitale britannique. </div>  
   <br>
 
 ## Enjeux selon les enquêtés 
 
 ![](fig/london_issue1.svg)
+<br>
+ <div align="justify">Pour ce qui est des enjeux le plus importants selon les londoniens, sans surprise une grande majorité des Boroughs ont répondu la pandémie de la Covid-19. Cependant, en comparaison avec Paris quelques exceptions se sont glissées sur la carte : le coût de la vie et le crime et le maintien de l'ordre.
+ <br> Sur la carte ci-dessous, représentant le deuxième enjeu le plus important, on retrouve pour une grande majorité des cas le coût de la vie et le maintien de l'ordre comme enjeux importants. Sans grande surprise non plus, la City de Londres pense tout particulièrement à l'économie, notamment du fait qu'il s'agisse d'une entité concentrant des fonctions économiques importantes. En périphérie de Londres on remarque que le logement est un des enjeux majeurs pour certains boroughs. 
+ </div>  
+  <br>
 ![](fig/london_issue2.svg)
 
 

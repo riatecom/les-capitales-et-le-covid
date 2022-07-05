@@ -157,6 +157,8 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
 ![](fig/Paris_qd12_pos.svg)
 ![](fig/Paris_qd12_neg.svg)
 ![](fig/Paris_qd12_oth.svg)
+<div align ="justify">Si le télétravail est une pratique de plus en plus courante, tout le monde n'est pas mis sur un pied égalité vis à vis de cette pratique, notamment du fait de la vie de famille ou de la disposition des logements. Parmi l'ensemble des répondants, ***40%*** ont la possibilité de travailler depuis chez eux. *A contrario*, ***21%*** ne peuvent pas être en télétravail. Géographiquement parlant, le constat est net : les EPT au Nord du Grand Paris ont moins la capacité de télétravailler que le reste du territoire, notamment Paris, les communes Hors du Grand Paris et les EPT de l'Ouest.
+</div>
   
   <a href="#top">Revenir en haut de page</a>
 
@@ -174,82 +176,115 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
 </div>
 ![](fig/Paris_GRID_Q37_NEW_1_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_1_oth.svg)
-<br> **Abordabilité des logements**
+<br> 
+**Abordabilité des logements**
 <br>
 <div align ="justify">Contrairement aux transports, **55%** des répondants pensent que l'abordabilité des logements va se détériorer dans le futur, et seulement **12%** des enquêtes sont optimistes. Ce qui flagrant est le grand pessimisme et le très faible optimiste que l'EPT Grand-Orly Seine Bièvre, en opposition avec Paris Ouest La Défense ou l'Hors Grand Paris.
 </div>
 ![](fig/Paris_GRID_Q37_NEW_2_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_2_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_2_oth.svg)
-<br> **Opportunités d'emploi**<br>
+<br> 
+**Opportunités d'emploi**<br>
+<div align ="justify">On retrouve environ 1/3 des répondants pour chaque réponse vis à vis de l'avenir des opportunités d'emploi, avec un pessimisme légèrement plus présent (***26%***). La Ville de Paris et les EPT du Nord semblent plus tendre vers un optimisme, contrairement au Sud, est surtout à l'Est, qui sont plus pessimistes vis à vis de cette question. On peut transposer cette logique avec les nombreux travaux encourageant le développement économique au nord et aux alentours de la Défense
+</div>
 ![](fig/Paris_GRID_Q37_NEW_3_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_3_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_3_oth.svg)
-<br> **Niveaux de pollution**
+<br> 
+**Niveaux de pollution**
 <br>
+<div align ="justify">La question de la gestion des niveaux de pollution est au coeur des politiques des villes aujourd'hui. Pourtant, seulement ***18%*** de l'ensemble des enquêtés semblent optimistes vis à vis de cette question. La ville de Paris semble d'ailleurs particulièrement optimiste, contrairement aux EPT présents au Sud et à l'extrême est du Grand Paris.
 ![](fig/Paris_GRID_Q37_NEW_4_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_4_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_4_oth.svg)
-<br> **Hospitalité**
+
+<br> 
+**Cutlure**
 <br>
-![](fig/Paris_GRID_Q37_NEW_5_pos.svg)
-![](fig/Paris_GRID_Q37_NEW_5_neg.svg)
-![](fig/Paris_GRID_Q37_NEW_5_oth.svg)
-<br> **Cutlure**
-<br>
+<div align ="justify">
+</div>
 ![](fig/Paris_GRID_Q37_NEW_6_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_6_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_6_oth.svg)
-<br> **Services publics**
+<br> 
+**Services publics**
 <br>
+<div align ="justify">
+Aurait peut être fallu différencier les services publics (notamment accès à la santé mis à mal par la crise)
+</div>
 ![](fig/Paris_GRID_Q37_NEW_7_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_7_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_7_oth.svg)
-OU ON EST OPTIMISTE ET OU ON NE L'EST PAS ????
+<div align ="justify">Dans l'ensemble, la Ville de Paris semble assez optimiste vis à vis de l'avenir, tout comme les EPT présents à l'Ouest. Le reste du territoire francilien présente davantage de contrastes, mais dans l'ensemble un optimiste général semble se dessiner.
+</div>
   
   <a href="#top">Revenir en haut de page</a>
 
 ## Préoccupations environnementales  
 
-
-***Q22B*** 
-
 <br>***Q23***
-<br>**Péage urbain la semaine**<br>
+<br>
+**Péage urbain la semaine**
+<br>
+<div align ="justify">
+</div>
 ![](fig/Paris_GRID_Q23_1_pos.svg)
 ![](fig/Paris_GRID_Q23_1_neg.svg)
 ![](fig/Paris_GRID_Q23_1_oth.svg)
-<br>**Encourager à ne pas utiliser sa voiture pour aller au travail ou à l'école**<br>
+<br>
+**Encourager à ne pas utiliser sa voiture pour aller au travail ou à l'école**
+<br>
+<div align ="justify">
+</div>
 ![](fig/Paris_GRID_Q23_2_pos.svg)
 ![](fig/Paris_GRID_Q23_2_neg.svg)
 ![](fig/Paris_GRID_Q23_2_oth.svg)
-<br>**Financer plus d'infrastructures pour vélos**
 <br>
+**Financer plus d'infrastructures pour vélos**
+<br>
+<div align ="justify">
+</div>
 ![](fig/Paris_GRID_Q23_3_pos.svg)
 ![](fig/Paris_GRID_Q23_3_neg.svg)
 ![](fig/Paris_GRID_Q23_3_oth.svg)
-<br>**Financer plus d'espaces piétons**
 <br>
+**Financer plus d'espaces piétons**
+<br>
+<div align ="justify">
+</div>
 ![](fig/Paris_GRID_Q23_4_pos.svg)
 ![](fig/Paris_GRID_Q23_4_neg.svg)
 ![](fig/Paris_GRID_Q23_4_oth.svg)
-<br>**Introduire plus de journées sans voiture dans Paris**
 <br>
+**Introduire plus de journées sans voiture dans Paris**
+<br>
+<div align ="justify">
+</div>
 ![](fig/Paris_GRID_Q23_5_pos.svg)
 ![](fig/Paris_GRID_Q23_5_neg.svg)
 ![](fig/Paris_GRID_Q23_5_oth.svg)
-<br>**N'autoriser seulement que les véhicules propres certains jours à Paris**
 <br>
+**N'autoriser seulement que les véhicules propres certains jours à Paris**
+<br>
+<div align ="justify">
+</div>
 ![](fig/Paris_GRID_Q23_6_pos.svg)
 ![](fig/Paris_GRID_Q23_6_neg.svg)
 ![](fig/Paris_GRID_Q23_6_oth.svg)
-<br>**Réalouer de l'espace réservé à l'automobile pour les cyclistes et piétons**
 <br>
+**Réalouer de l'espace réservé à l'automobile pour les cyclistes et piétons**
+<br>
+<div align ="justify">
+</div>
 ![](fig/Paris_GRID_Q23_7_pos.svg)
 ![](fig/Paris_GRID_Q23_7_neg.svg)
 ![](fig/Paris_GRID_Q23_7_oth.svg)
-<br>**Réduire la vitesse de circulation dans les zones denses**
 <br>
+**Réduire la vitesse de circulation dans les zones denses**
+<br>
+<div align ="justify">
+</div>
 ![](fig/Paris_GRID_Q23_8_pos.svg) 
 ![](fig/Paris_GRID_Q23_8_neg.svg)
 ![](fig/Paris_GRID_Q23_8_oth.svg)

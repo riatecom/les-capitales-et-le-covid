@@ -47,6 +47,9 @@ title: "Londres"
 ![](fig/Londres_Q14a_pos.svg)
 ![](fig/Londres_Q14a_neg.svg)
 ![](fig/Londres_Q14a_oth.svg)
+<div align="justify">***56%*** des enquêtes ont répondu qu'ils ne comptaient pas quitter Londres, contre ***28%*** qui sont certains ou presque de vouloir quitter la ville. On peut conclure qu'une majorité des répondants est donc satisfaite de son cadre de vie, ou bien qu'ils sont attachés à ce dernier.  
+Dans le cas de cette question, la carte des répondants voulant rester à Londres est intéressante. En effet, on remarque une sorte de clivage entre l'est et l'ouest de la ville, avec quelques exceptions comme le borough d'Havering, qui présente, sur le papier, des aspects favorisant une bonne qualité de vie (chômage faible, espaces verts très présent du fait de la *Metropolitan Green Belt*).
+</div>
 
 ## Mixité sociale et immigration
 
@@ -55,16 +58,22 @@ Q26
 ![](fig/Londres_GRID_Q26_1_pos.svg)
 ![](fig/Londres_GRID_Q26_1_neg.svg)
 ![](fig/Londres_GRID_Q26_1_oth.svg)
+<div align="justify">Pour une grande majorité (***61%***) des enquêtés, l'immigration venant de l'étranger a un impact positif sur leur ville. On remarque surtout que sur la carte des réponses positives, une différence entre le centre, plus favorable à l'immigration, et la périphérie qui l'est moins. Avec le borough Kingston upon Thames qui semble plus défavorable, ou plus neutre, vis à vis de cette question
+</div>
 <br>
 *Immigration from elsewhere within UK*
 ![](fig/Londres_GRID_Q26_2_pos.svg)
 ![](fig/Londres_GRID_Q26_2_neg.svg)
 ![](fig/Londres_GRID_Q26_2_oth.svg)
+<div align="justify">L'immigration venant d'ailleurs au Royaume-Uni est légèrement moins acceptée dans l'ensemble (***58%***), mais l'on retrouve une différence entre le centre et la périphérie, avec tout de même davantage de boroughs qui présentent un indice négatif. Kingston upon Thames est également en désaccord avec l'impact positif qu'a cette immigration.
+</div>
 <br>
 *I think Londres/Ma commune needs more immigration than the present level*
 ![](fig/Londres_GRID_Q26_3_pos.svg)
 ![](fig/Londres_GRID_Q26_3_neg.svg)
 ![](fig/Londres_GRID_Q26_3_oth.svg)
+<div align="justify">A la question de savoir si il faut plus d'immigration, on retrouve environ un tier des répondants partout, avec légèrement plus de réponses neutres et négatives. Il est intéressant d'observer un autre clivage est-ouest pour la carte des réponses négatives.
+</div>
 
 ## Sécurité
 
@@ -81,11 +90,11 @@ Q33
 ## Logement, travail et vie de famille  
 
 ***Q11B***
-*Bon endroit pour élever ses enfants*
+*Se loger est abordable*
 ![](fig/Londres_GRID_Q11B_2_pos.svg)
 ![](fig/Londres_GRID_Q11B_2_neg.svg)
 ![](fig/Londres_GRID_Q11B_2_oth.svg)
-<br>*Immobilier abordable pour les gens comme moi*
+<br>*L'accès à la propriété est abordable pour les gens comme moi*
 ![](fig/Londres_GRID_Q11B_3_pos.svg)
 ![](fig/Londres_GRID_Q11B_3_neg.svg)
 ![](fig/Londres_GRID_Q11B_3_oth.svg)
@@ -99,7 +108,7 @@ Q33
 ![](fig/Londres_GRID_Q37_NEW_1_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_1_neg.svg)
 ![](fig/Londres_GRID_Q37_NEW_1_oth.svg)
-<br> *Afordabilité des logements*
+<br> *Abordabilité des logements*
 ![](fig/Londres_GRID_Q37_NEW_2_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_2_neg.svg)
 ![](fig/Londres_GRID_Q37_NEW_2_oth.svg)
@@ -127,35 +136,32 @@ Q33
 
 ## Préoccupations environnementales  
 
-
-***Q22B*** 
-
 <br>***Q23***
 <br>*Péage urbain*
 ![](fig/Londres_GRID_Q23_1_pos.svg)
 ![](fig/Londres_GRID_Q23_1_neg.svg)
 ![](fig/Londres_GRID_Q23_1_oth.svg)
-<br>*Plus d'infrastructures cyclistes*
+<br>*Encourager à moins utiliser sa voiture*
 ![](fig/Londres_GRID_Q23_2_pos.svg)
 ![](fig/Londres_GRID_Q23_2_neg.svg)
 ![](fig/Londres_GRID_Q23_2_oth.svg)
-<br>*Plus d'espaces piétons*
+<br>*Financer des infrastructures pour vélos*
 ![](fig/Londres_GRID_Q23_3_pos.svg)
 ![](fig/Londres_GRID_Q23_3_neg.svg)
 ![](fig/Londres_GRID_Q23_3_oth.svg)
-<br>*Journées sans voitures dans Londres*
+<br>*Financer des zones piétonnes*
 ![](fig/Londres_GRID_Q23_4_pos.svg)
 ![](fig/Londres_GRID_Q23_4_neg.svg)
 ![](fig/Londres_GRID_Q23_4_oth.svg)
-<br>*Centre de Londres réservé aux véhicules propres*
+<br>*Journées sans voitures*
 ![](fig/Londres_GRID_Q23_5_pos.svg)
 ![](fig/Londres_GRID_Q23_5_neg.svg)
 ![](fig/Londres_GRID_Q23_5_oth.svg)
-<br>*Réalouer des espaces motorisés aux piétons et vélos*
+<br>*N'autoriser que les véhicules propres certains jours*
 ![](fig/Londres_GRID_Q23_6_pos.svg)
 ![](fig/Londres_GRID_Q23_6_neg.svg)
 ![](fig/Londres_GRID_Q23_6_oth.svg)
-<br>*Réduire la vitesse en zone dense*
+<br>*Réalouer de l'espace aux cyclistes et piétons*
 ![](fig/Londres_GRID_Q23_7_pos.svg)
 ![](fig/Londres_GRID_Q23_7_neg.svg)
 ![](fig/Londres_GRID_Q23_7_oth.svg)

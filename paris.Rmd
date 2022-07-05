@@ -173,6 +173,7 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
 ![](fig/Paris_GRID_Q37_NEW_1_pos.svg)
 <br>
 <div align ="justify">Il est important de soulever que les EPT à l'ouest, au sud ouest et au sud semblent davantage optimistes vis à vis des transports publics, un sentiment qui peut, peut-être, se justifier par le Grand Paris Express et un meilleur accueil de ce dernier dans cette zone plutôt qu'au nord et à l'est de la capitale.
+Il faut également préciser que le nombre de répondants étant assez faible vis à vis de la population générale du Grand Paris, il est difficile de mesurer l'impact positif ou négatif du GPE du fait de l'éparpillement des répondants.
 </div>
 ![](fig/Paris_GRID_Q37_NEW_1_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_1_oth.svg)

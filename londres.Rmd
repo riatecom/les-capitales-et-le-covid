@@ -76,25 +76,38 @@ Q26
 </div>
 
 ## Sécurité
-
-Q33
 *Day*
+<div align ="justify">***88%*** des répondants se sentent en sécurité dans leur quartier en journée. Cartographiquement, cela fait que les écarts à la moyenne sont faibles sur l'ensemble de l'espace étudié, on peut dire que la situation est assez homogène.
+</div>
+<br>
+
 ![](fig/Londres_GRID_Q33_1_pos.svg)
 ![](fig/Londres_GRID_Q33_1_neg.svg)
 ![](fig/Londres_GRID_Q33_1_oth.svg)
-<br>*Night*
+<br>
+*Night*
+<div align ="justify">La nuit, les répondants se sentant en sécurité tombent à ***59%*** et la situation devient moins homogène. ***19%*** ne se sentent pas en sécurité, et on retrouve ce sentiment davantage à l'ouest et au centre-est qu'à l'est ou dans le centre de Londres.
+</div>
 ![](fig/Londres_GRID_Q33_2_pos.svg)
 ![](fig/Londres_GRID_Q33_2_neg.svg)
 ![](fig/Londres_GRID_Q33_2_oth.svg)
 
 ## Logement, travail et vie de famille  
 
-***Q11B***
+***Logement***
+<br>
 *Se loger est abordable*
+<br>
+<div align ="justify">***65%*** des enquêtés pensent que se loger est trop cher pour eux, contre ***20%*** pour le constat inverse. La city et quelques boroughs les plus au centre de Londres semblent davantage en capacité de se loger que le reste du territoire londonnien, notamment le sud-est de la ville et les boroughs les plus pauvres du centre (Isilington et Hackney).
+</div>
 ![](fig/Londres_GRID_Q11B_2_pos.svg)
 ![](fig/Londres_GRID_Q11B_2_neg.svg)
 ![](fig/Londres_GRID_Q11B_2_oth.svg)
-<br>*L'accès à la propriété est abordable pour les gens comme moi*
+<br>
+*L'accès à la propriété est abordable pour les gens comme moi*
+<br>
+<div align ="justify">Pour l'accès à la propriété, la réponse est assez homogêne sur l'ensemble du territoire puisque ***89%*** des répondants pensent que ce coup est trop élevé.
+</div>
 ![](fig/Londres_GRID_Q11B_3_pos.svg)
 ![](fig/Londres_GRID_Q11B_3_neg.svg)
 ![](fig/Londres_GRID_Q11B_3_oth.svg)
@@ -106,32 +119,49 @@ Q33
 </div>
 ## Rebondir après la pandémie
 
-***Q37***
 <br>*Transports publics*
+<div align ="justify">
+</div>
 ![](fig/Londres_GRID_Q37_NEW_1_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_1_neg.svg)
 ![](fig/Londres_GRID_Q37_NEW_1_oth.svg)
-<br> *Abordabilité des logements*
+<br> 
+*Abordabilité des logements*
+<br>
+<div align ="justify">
+</div>
 ![](fig/Londres_GRID_Q37_NEW_2_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_2_neg.svg)
 ![](fig/Londres_GRID_Q37_NEW_2_oth.svg)
-<br> *Opportunités d'emploi*
+<br> 
+*Opportunités d'emploi*
+<br>
+<div align ="justify">
+</div>
 ![](fig/Londres_GRID_Q37_NEW_3_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_3_neg.svg)
 ![](fig/Londres_GRID_Q37_NEW_3_oth.svg)
-<br> *Niveaux de pollution*
+<br> 
+*Niveaux de pollution*
+<br>
+<div align ="justify">
+</div>
 ![](fig/Londres_GRID_Q37_NEW_4_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_4_neg.svg)
 ![](fig/Londres_GRID_Q37_NEW_4_oth.svg)
-<br> *Hospitalité*
-![](fig/Londres_GRID_Q37_NEW_5_pos.svg)
-![](fig/Londres_GRID_Q37_NEW_5_neg.svg)
-![](fig/Londres_GRID_Q37_NEW_5_oth.svg)
-<br> *Cutlure*
+<br> 
+*Cutlure*
+<br>
+<div align ="justify">
+</div>
 ![](fig/Londres_GRID_Q37_NEW_6_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_6_neg.svg)
 ![](fig/Londres_GRID_Q37_NEW_6_oth.svg)
-<br> *Services publics*
+<br> 
+*Services publics*
+<br>
+<div align ="justify">
+</div>
 ![](fig/Londres_GRID_Q37_NEW_7_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_7_neg.svg)
 ![](fig/Londres_GRID_Q37_NEW_7_oth.svg)
@@ -139,32 +169,59 @@ Q33
 
 ## Préoccupations environnementales  
 
-<br>***Q23***
-<br>*Péage urbain*
+<br>
+*Péage urbain*
+<br>
+<div align ="justify">
+</div>
 ![](fig/Londres_GRID_Q23_1_pos.svg)
 ![](fig/Londres_GRID_Q23_1_neg.svg)
 ![](fig/Londres_GRID_Q23_1_oth.svg)
-<br>*Encourager à moins utiliser sa voiture*
+<br>
+*Encourager à moins utiliser sa voiture*
+<br>
+<div align ="justify">
+</div>
 ![](fig/Londres_GRID_Q23_2_pos.svg)
 ![](fig/Londres_GRID_Q23_2_neg.svg)
 ![](fig/Londres_GRID_Q23_2_oth.svg)
-<br>*Financer des infrastructures pour vélos*
+<br>
+*Financer des infrastructures pour vélos*
+<br>
+<div align ="justify">
+</div>
 ![](fig/Londres_GRID_Q23_3_pos.svg)
 ![](fig/Londres_GRID_Q23_3_neg.svg)
 ![](fig/Londres_GRID_Q23_3_oth.svg)
-<br>*Financer des zones piétonnes*
+<br>
+*Financer des zones piétonnes*
+<br>
+<div align ="justify">
+</div>
 ![](fig/Londres_GRID_Q23_4_pos.svg)
 ![](fig/Londres_GRID_Q23_4_neg.svg)
 ![](fig/Londres_GRID_Q23_4_oth.svg)
-<br>*Journées sans voitures*
+<br>
+*Journées sans voitures*
+<br>
+<div align ="justify">
+</div>
 ![](fig/Londres_GRID_Q23_5_pos.svg)
 ![](fig/Londres_GRID_Q23_5_neg.svg)
 ![](fig/Londres_GRID_Q23_5_oth.svg)
-<br>*N'autoriser que les véhicules propres certains jours*
+<br>
+*N'autoriser que les véhicules propres certains jours*
+<br>
+<div align ="justify">
+</div>
 ![](fig/Londres_GRID_Q23_6_pos.svg)
 ![](fig/Londres_GRID_Q23_6_neg.svg)
 ![](fig/Londres_GRID_Q23_6_oth.svg)
-<br>*Réalouer de l'espace aux cyclistes et piétons*
+<br>
+*Réalouer de l'espace aux cyclistes et piétons*
+<br>
+<div align ="justify">
+</div>
 ![](fig/Londres_GRID_Q23_7_pos.svg)
 ![](fig/Londres_GRID_Q23_7_neg.svg)
 ![](fig/Londres_GRID_Q23_7_oth.svg)

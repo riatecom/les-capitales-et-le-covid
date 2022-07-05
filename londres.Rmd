@@ -120,7 +120,7 @@ Q26
 ## Rebondir après la pandémie
 
 <br>*Transports publics*
-<div align ="justify">
+<div align ="justify">***Environ 45%*** des répondants sont soient optimistes ou neutres vis à vis de l'avenir des transports publics au sein de la capitale anglaise. La partie centrale et l'ouest de l'inner Londres sont davantages optimistes que la périphérie de Londres intérieur. Pour les boroughs les plus éloignés, la situation est plus hétérogène.
 </div>
 ![](fig/Londres_GRID_Q37_NEW_1_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_1_neg.svg)
@@ -128,7 +128,8 @@ Q26
 <br> 
 *Abordabilité des logements*
 <br>
-<div align ="justify">
+<div align ="justify">Comme vu dans la partie sur le logement, Londres est une ville chère, cependant ***60%*** des répondants pensent que cette situation va s'améliorer dans les cinq prochaines années. Spatialement, on observer une certaine homogénéité puisque la quasi-totalité des boroughs sont proches de la moyenne générale.
+Seul le borough de Hammersmith and Fulham semble tendre vers plus de pessimisme vis à vis de cette question.
 </div>
 ![](fig/Londres_GRID_Q37_NEW_2_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_2_neg.svg)
@@ -136,7 +137,7 @@ Q26
 <br> 
 *Opportunités d'emploi*
 <br>
-<div align ="justify">
+<div align ="justify">Cette question de l'emploi observe également des réponses plutôt optimistes puisque ***55%*** des répondants sont optimistes, contre seulement ***14%*** de réponses pessimistes. On retrouve cependant certains boroughs à l'est et au sud de l'inner-Londres qui tendent vers plus de pessimisme.
 </div>
 ![](fig/Londres_GRID_Q37_NEW_3_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_3_neg.svg)

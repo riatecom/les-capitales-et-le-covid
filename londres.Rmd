@@ -98,8 +98,10 @@ Q33
 ![](fig/Londres_GRID_Q11B_3_pos.svg)
 ![](fig/Londres_GRID_Q11B_3_neg.svg)
 ![](fig/Londres_GRID_Q11B_3_oth.svg)
-<br>***QD12*** 
-
+<br>***Télétravail*** 
+![](fig/Londres_qd12_pos.svg)
+![](fig/Londres_qd12_neg.svg)
+![](fig/Londres_qd12_oth.svg)
 
 ## Rebondir après la pandémie
 

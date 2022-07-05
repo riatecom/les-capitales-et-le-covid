@@ -153,7 +153,10 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
 ![](fig/Paris_GRID_Q11B_3_pos.svg)
 ![](fig/Paris_GRID_Q11B_3_neg.svg)
 ![](fig/Paris_GRID_Q11B_3_oth.svg)
-<br>***QD12*** 
+<br>***Télétravail***
+![](fig/Paris_qd12_pos.svg)
+![](fig/Paris_qd12_neg.svg)
+![](fig/Paris_qd12_oth.svg)
   
   <a href="#top">Revenir en haut de page</a>
 

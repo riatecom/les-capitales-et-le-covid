@@ -137,7 +137,7 @@ Seul le borough de Hammersmith and Fulham semble tendre vers plus de pessimisme 
 <br> 
 *Opportunités d'emploi*
 <br>
-<div align ="justify">Cette question de l'emploi observe également des réponses plutôt optimistes puisque ***55%*** des répondants sont optimistes, contre seulement ***14%*** de réponses pessimistes. On retrouve cependant certains boroughs à l'est et au sud de l'inner-Londres qui tendent vers plus de pessimisme.
+<div align ="justify">Cette question de l'emploi observe également des réponses plutôt optimistes puisque ***55%*** des répondants sont optimistes, contre seulement ***14%*** de réponses pessimistes. On retrouve cependant certains boroughs à l'est et au sud de l'inner-Londres qui tendent vers moins d'optimisme que le reste des boroughs. 
 </div>
 ![](fig/Londres_GRID_Q37_NEW_3_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_3_neg.svg)
@@ -166,66 +166,4 @@ Seul le borough de Hammersmith and Fulham semble tendre vers plus de pessimisme 
 ![](fig/Londres_GRID_Q37_NEW_7_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_7_neg.svg)
 ![](fig/Londres_GRID_Q37_NEW_7_oth.svg)
-
-
-## Préoccupations environnementales  
-
-<br>
-*Péage urbain*
-<br>
-<div align ="justify">
-</div>
-![](fig/Londres_GRID_Q23_1_pos.svg)
-![](fig/Londres_GRID_Q23_1_neg.svg)
-![](fig/Londres_GRID_Q23_1_oth.svg)
-<br>
-*Encourager à moins utiliser sa voiture*
-<br>
-<div align ="justify">
-</div>
-![](fig/Londres_GRID_Q23_2_pos.svg)
-![](fig/Londres_GRID_Q23_2_neg.svg)
-![](fig/Londres_GRID_Q23_2_oth.svg)
-<br>
-*Financer des infrastructures pour vélos*
-<br>
-<div align ="justify">
-</div>
-![](fig/Londres_GRID_Q23_3_pos.svg)
-![](fig/Londres_GRID_Q23_3_neg.svg)
-![](fig/Londres_GRID_Q23_3_oth.svg)
-<br>
-*Financer des zones piétonnes*
-<br>
-<div align ="justify">
-</div>
-![](fig/Londres_GRID_Q23_4_pos.svg)
-![](fig/Londres_GRID_Q23_4_neg.svg)
-![](fig/Londres_GRID_Q23_4_oth.svg)
-<br>
-*Journées sans voitures*
-<br>
-<div align ="justify">
-</div>
-![](fig/Londres_GRID_Q23_5_pos.svg)
-![](fig/Londres_GRID_Q23_5_neg.svg)
-![](fig/Londres_GRID_Q23_5_oth.svg)
-<br>
-*N'autoriser que les véhicules propres certains jours*
-<br>
-<div align ="justify">
-</div>
-![](fig/Londres_GRID_Q23_6_pos.svg)
-![](fig/Londres_GRID_Q23_6_neg.svg)
-![](fig/Londres_GRID_Q23_6_oth.svg)
-<br>
-*Réalouer de l'espace aux cyclistes et piétons*
-<br>
-<div align ="justify">
-</div>
-![](fig/Londres_GRID_Q23_7_pos.svg)
-![](fig/Londres_GRID_Q23_7_neg.svg)
-![](fig/Londres_GRID_Q23_7_oth.svg)
-
-#
 <br><a href="#top">Revenir en haut de page</a>

@@ -145,7 +145,7 @@ Seul le borough de Hammersmith and Fulham semble tendre vers plus de pessimisme 
 <br> 
 **Niveaux de pollution**
 <br>
-<div align ="justify">
+<div align ="justify">***56*** des personnes pensent que les niveaux de pollutions vont s'améliorer. Hormis les boroughs de Hackney et Kesington and Chelsea, l'Inner-Londres est assez optimiste quant à cette question. Et une grande partie des boroughs en périphérie pensent que la situation va se détériorer ou rester identique.
 </div>
 ![](fig/Londres_GRID_Q37_NEW_4_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_4_neg.svg)
@@ -153,7 +153,7 @@ Seul le borough de Hammersmith and Fulham semble tendre vers plus de pessimisme 
 <br> 
 **Cutlure**
 <br>
-<div align ="justify">
+<div align ="justify">Hormis certains boroughs les plus excentrés, une grande partie des boroughs tendent à un optimiste ou à une vision neutre sur l'avenir de la culture.
 </div>
 ![](fig/Londres_GRID_Q37_NEW_6_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_6_neg.svg)

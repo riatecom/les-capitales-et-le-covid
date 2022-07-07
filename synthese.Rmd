@@ -2,5 +2,49 @@
 title: "Synthèse"
 ---
 
+# Que peut-on retenir de cette enquête ? {.tabset}
 
+<br>
 
+::: {align="justify"}
+Cette partie du site tachera de résumer les résultats de l'étude réalisée durant mon stage. Elle portera principalement sur une comparaison des deux espaces d'études (Paris et Londres), tout en rappelant la situation interne de ces derniers en fonction des différentes questions traitées.
+:::
+
+<br>
+
+## Enjeux selon les enquêtés
+
+::: {align="justify"}
+:::
+
+## La vie dans son quartier pendant la Covid
+
+::: {align="justify"}
+:::
+
+## Quitter les grandes villes après la Covid ?
+
+::: {align="justify"}
+:::
+
+## Mixité sociale et immigration
+
+::: {align="justify"}
+:::
+
+## Sécurité
+
+::: {align="justify"}
+:::
+
+## Logement, travail et vie de famille
+
+::: {align="justify"}
+:::
+
+## Rebondir après la pandémie
+
+::: {align="justify"}
+:::
+
+## Des conclusions à l'étude ?

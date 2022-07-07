@@ -195,7 +195,8 @@ Il faut également préciser que le nombre de répondants étant assez faible vi
 <br> 
 **Niveaux de pollution**
 <br>
-<div align ="justify">La question de la gestion des niveaux de pollution est au coeur des politiques des villes aujourd'hui. Pourtant, seulement ***18%*** de l'ensemble des enquêtés semblent optimistes vis à vis de cette question. La ville de Paris semble d'ailleurs particulièrement optimiste, contrairement aux EPT présents au Sud et à l'extrême est du Grand Paris.
+<div align ="justify">La question de la gestion des niveaux de pollution est au coeur des politiques des villes aujourd'hui. Pourtant, seulement ***18%*** de l'ensemble des enquêtés semblent optimistes vis à vis de cette question. La ville de Paris semble d'ailleurs particulièrement optimiste, contrairement aux EPT présents au Sud et à l'extrême est du Grand Paris.</div>
+
 ![](fig/Paris_GRID_Q37_NEW_4_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_4_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_4_oth.svg)
@@ -212,7 +213,8 @@ Il faut également préciser que le nombre de répondants étant assez faible vi
 **Services publics**
 <br>
 <div align ="justify">
-Aurait peut être fallu différencier les services publics (notamment accès à la santé mis à mal par la crise)
+***1/3*** des répondants pensent que les services publics vont se détériorer, un sentiment particulièrement présent à l'est du Grand Paris. Il est intéressant de préciser que l'EPT Grand Paris Seine Ouest possède à la fois une grande part de répondants optimistes et pessimistes. Au nord, les EPT tendent à dire que les services vont rester à l'identique.
+Le terme "services publics" étant assez large, il aurait peut être fallu différencier les services publics (notamment accès à la santé mis à mal par la crise Covid), et pourquoi pas en faire une catégorie de question à part entière.
 </div>
 ![](fig/Paris_GRID_Q37_NEW_7_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_7_neg.svg)

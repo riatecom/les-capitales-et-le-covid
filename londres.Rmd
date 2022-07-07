@@ -29,8 +29,6 @@ title: "Londres"
 
 ## La vie dans son quartier pendant la Covid
 
-***Q22A*** 
-
 ![](fig/Londres_Q22A_pos.svg)
 
 ![](fig/Londres_Q22A_neg.svg)
@@ -54,21 +52,21 @@ Dans le cas de cette question, la carte des répondants voulant rester à Londre
 ## Mixité sociale et immigration
 
 Q26
-*Immigration from outside of UK*
+**Immigration from outside of UK**
 ![](fig/Londres_GRID_Q26_1_pos.svg)
 ![](fig/Londres_GRID_Q26_1_neg.svg)
 ![](fig/Londres_GRID_Q26_1_oth.svg)
 <div align="justify">Pour une grande majorité (***61%***) des enquêtés, l'immigration venant de l'étranger a un impact positif sur leur ville. On remarque surtout que sur la carte des réponses positives, une différence entre le centre, plus favorable à l'immigration, et la périphérie qui l'est moins. Avec le borough Kingston upon Thames qui semble plus défavorable, ou plus neutre, vis à vis de cette question
 </div>
 <br>
-*Immigration from elsewhere within UK*
+**Immigration from elsewhere within UK**
 ![](fig/Londres_GRID_Q26_2_pos.svg)
 ![](fig/Londres_GRID_Q26_2_neg.svg)
 ![](fig/Londres_GRID_Q26_2_oth.svg)
 <div align="justify">L'immigration venant d'ailleurs au Royaume-Uni est légèrement moins acceptée dans l'ensemble (***58%***), mais l'on retrouve une différence entre le centre et la périphérie, avec tout de même davantage de boroughs qui présentent un indice négatif. Kingston upon Thames est également en désaccord avec l'impact positif qu'a cette immigration.
 </div>
 <br>
-*I think Londres/Ma commune needs more immigration than the present level*
+**I think Londres/Ma commune needs more immigration than the present level**
 ![](fig/Londres_GRID_Q26_3_pos.svg)
 ![](fig/Londres_GRID_Q26_3_neg.svg)
 ![](fig/Londres_GRID_Q26_3_oth.svg)
@@ -76,7 +74,8 @@ Q26
 </div>
 
 ## Sécurité
-*Day*
+**Day**
+<br>
 <div align ="justify">***88%*** des répondants se sentent en sécurité dans leur quartier en journée. Cartographiquement, cela fait que les écarts à la moyenne sont faibles sur l'ensemble de l'espace étudié, on peut dire que la situation est assez homogène.
 </div>
 <br>
@@ -85,7 +84,8 @@ Q26
 ![](fig/Londres_GRID_Q33_1_neg.svg)
 ![](fig/Londres_GRID_Q33_1_oth.svg)
 <br>
-*Night*
+**Night**
+<br>
 <div align ="justify">La nuit, les répondants se sentant en sécurité tombent à ***59%*** et la situation devient moins homogène. ***19%*** ne se sentent pas en sécurité, et on retrouve ce sentiment davantage à l'ouest et au centre-est qu'à l'est ou dans le centre de Londres.
 </div>
 ![](fig/Londres_GRID_Q33_2_pos.svg)
@@ -96,7 +96,7 @@ Q26
 
 ***Logement***
 <br>
-*Se loger est abordable*
+**Se loger est abordable**
 <br>
 <div align ="justify">***65%*** des enquêtés pensent que se loger est trop cher pour eux, contre ***20%*** pour le constat inverse. La city et quelques boroughs les plus au centre de Londres semblent davantage en capacité de se loger que le reste du territoire londonnien, notamment le sud-est de la ville et les boroughs les plus pauvres du centre (Isilington et Hackney).
 </div>
@@ -104,7 +104,7 @@ Q26
 ![](fig/Londres_GRID_Q11B_2_neg.svg)
 ![](fig/Londres_GRID_Q11B_2_oth.svg)
 <br>
-*L'accès à la propriété est abordable pour les gens comme moi*
+**L'accès à la propriété est abordable pour les gens comme moi**
 <br>
 <div align ="justify">Pour l'accès à la propriété, la réponse est assez homogêne sur l'ensemble du territoire puisque ***89%*** des répondants pensent que ce coup est trop élevé.
 </div>
@@ -119,14 +119,14 @@ Q26
 </div>
 ## Rebondir après la pandémie
 
-<br>*Transports publics*
+<br>**Transports publics**
 <div align ="justify">***Environ 45%*** des répondants sont soient optimistes ou neutres vis à vis de l'avenir des transports publics au sein de la capitale anglaise. La partie centrale et l'ouest de l'inner Londres sont davantages optimistes que la périphérie de Londres intérieur. Pour les boroughs les plus éloignés, la situation est plus hétérogène.
 </div>
 ![](fig/Londres_GRID_Q37_NEW_1_pos.svg)
 ![](fig/Londres_GRID_Q37_NEW_1_neg.svg)
 ![](fig/Londres_GRID_Q37_NEW_1_oth.svg)
 <br> 
-*Abordabilité des logements*
+**Abordabilité des logements**
 <br>
 <div align ="justify">Comme vu dans la partie sur le logement, Londres est une ville chère, cependant ***60%*** des répondants pensent que cette situation va s'améliorer dans les cinq prochaines années. Spatialement, on observer une certaine homogénéité puisque la quasi-totalité des boroughs sont proches de la moyenne générale.
 Seul le borough de Hammersmith and Fulham semble tendre vers plus de pessimisme vis à vis de cette question.
@@ -135,7 +135,7 @@ Seul le borough de Hammersmith and Fulham semble tendre vers plus de pessimisme 
 ![](fig/Londres_GRID_Q37_NEW_2_neg.svg)
 ![](fig/Londres_GRID_Q37_NEW_2_oth.svg)
 <br> 
-*Opportunités d'emploi*
+**Opportunités d'emploi**
 <br>
 <div align ="justify">Cette question de l'emploi observe également des réponses plutôt optimistes puisque ***55%*** des répondants sont optimistes, contre seulement ***14%*** de réponses pessimistes. On retrouve cependant certains boroughs à l'est et au sud de l'inner-Londres qui tendent vers moins d'optimisme que le reste des boroughs. 
 </div>
@@ -143,7 +143,7 @@ Seul le borough de Hammersmith and Fulham semble tendre vers plus de pessimisme 
 ![](fig/Londres_GRID_Q37_NEW_3_neg.svg)
 ![](fig/Londres_GRID_Q37_NEW_3_oth.svg)
 <br> 
-*Niveaux de pollution*
+**Niveaux de pollution**
 <br>
 <div align ="justify">
 </div>
@@ -151,7 +151,7 @@ Seul le borough de Hammersmith and Fulham semble tendre vers plus de pessimisme 
 ![](fig/Londres_GRID_Q37_NEW_4_neg.svg)
 ![](fig/Londres_GRID_Q37_NEW_4_oth.svg)
 <br> 
-*Cutlure*
+**Cutlure**
 <br>
 <div align ="justify">
 </div>
@@ -159,7 +159,7 @@ Seul le borough de Hammersmith and Fulham semble tendre vers plus de pessimisme 
 ![](fig/Londres_GRID_Q37_NEW_6_neg.svg)
 ![](fig/Londres_GRID_Q37_NEW_6_oth.svg)
 <br> 
-*Services publics*
+**Services publics**
 <br>
 <div align ="justify">
 </div>

@@ -204,7 +204,7 @@ Il faut également préciser que le nombre de répondants étant assez faible vi
 <br> 
 **Cutlure**
 <br>
-<div align ="justify">
+<div align ="justify">Si ***41%*** des répondants pensent que la situation des lieux de cultures va rester identiques, ***35%*** pensent qu'elle va s'améliorer et ***24%*** pensent qu'elle va se détériorer dans les prochaines années. La Ville de Paris présente d'ailleurs des résultats proches de la moyenne dans toutes les réponses possibles, comme une majorité d'EPT.
 </div>
 ![](fig/Paris_GRID_Q37_NEW_6_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_6_neg.svg)
@@ -219,7 +219,8 @@ Le terme "services publics" étant assez large, il aurait peut être fallu diff�
 ![](fig/Paris_GRID_Q37_NEW_7_pos.svg)
 ![](fig/Paris_GRID_Q37_NEW_7_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_7_oth.svg)
-<div align ="justify">Dans l'ensemble, la Ville de Paris semble assez optimiste vis à vis de l'avenir, tout comme les EPT présents à l'Ouest. Le reste du territoire francilien présente davantage de contrastes, mais dans l'ensemble un optimiste général semble se dessiner.
+<div align ="justify">Dans l'ensemble, la Ville de Paris semble assez optimiste vis à vis de l'avenir, tout comme les EPT présents à l'Ouest (qui ont pour réputation d'accueillir une population plus aisée). Le reste du territoire francilien présente davantage de contrastes, mais dans l'ensemble un optimiste général semble se dessiner.
+Certains EPT offrent davantage de réponses pessimistes, on peut citer l'exemple de l'EPT Grand-Orly Seine Bièvre notamment.
 </div>
   
   <a href="#top">Revenir en haut de page</a>

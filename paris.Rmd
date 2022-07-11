@@ -25,7 +25,7 @@ title: "Paris"
 ## Enjeux selon les enquêtés 
 <div align="justify">Le principal enjeu pour l'ensemble des EPT est la Covid-19. Afin d'aller un peu plus loin pour cette question, il est alors intéressant de regarder la 2è réponse la plus choisie selon les EPT. On se retrouve alors avec une plus grande diversité de réponses.
 </div>
-![](fig/paris_issue2.svg)
+![](fig/paris_issue2modif.png)
 
   
   <a href="#top">Revenir en haut de page</a>

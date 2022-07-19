@@ -62,13 +62,14 @@ Parler du fait que le covid et les confinements ont fait qu'on devait vivre a 1k
 
 ***Q14A : How likely, if at all, is it that you will move out of Paris/votre commune in the next five years?***
 <br>
+<div align ="justify>https://www.institutparisregion.fr/nos-travaux/publications/conditions-de-vie-et-aspirations-des-franciliens-en-2021/
+</div>
 
 ![](fig/paris_q14a_pos.svg)
 ![](fig/paris_q14a_neg.svg)
 ![](fig/paris_q14a_oth.svg)
 <br>
-***Q14B : For which of the following reasons, if any, are you considering leaving Paris/votre commune?***
-ACP 
+
 
   <a href="#top">Revenir en haut de page</a>
 
@@ -157,7 +158,9 @@ Le reste des EPT semblent être assez neutre à cette question, ou du moins pré
 ![](fig/Paris_qd12_pos.svg)
 ![](fig/Paris_qd12_neg.svg)
 ![](fig/Paris_qd12_oth.svg)
-<div align ="justify">Si le télétravail est une pratique de plus en plus courante, tout le monde n'est pas mis sur un pied égalité vis à vis de cette pratique, notamment du fait de la vie de famille ou de la disposition des logements. Parmi l'ensemble des répondants, ***40%*** ont la possibilité de travailler depuis chez eux. *A contrario*, ***21%*** ne peuvent pas être en télétravail. Géographiquement parlant, le constat est net : les EPT au Nord du Grand Paris ont moins la capacité de télétravailler que le reste du territoire, notamment Paris, les communes Hors du Grand Paris et les EPT de l'Ouest.
+<div align ="justify">Si le télétravail est une pratique de plus en plus courante, tout le monde n'est pas mis sur un pied égalité vis à vis de cette pratique, notamment du fait de la vie de famille ou de la disposition des logements. Parmi l'ensemble des répondants, ***40%*** ont la possibilité de travailler depuis chez eux. *A contrario*, ***21%*** ne peuvent pas être en télétravail. Géographiquement parlant, le constat est net : les EPT au Nord du Grand Paris ont moins la capacité de télétravailler que le reste du territoire, notamment Paris, les communes Hors du Grand Paris et les EPT de l'Ouest. En prenant l'exemple de l'EPT Plaine Commune, majoritairement composé de communes populaires (Ribardière 2018), les ménages travaillent en tant qu'ouvriers et employés, or il s'agit de professions n'offrant pas la plupart du temps la possiblité de télétravailler. On peut également penser qu'à cela s'ajoute la composition du foyer (familles nombreuses ou monoparentales dans des logements non-adaptés).
+https://www.institutparisregion.fr/nos-travaux/publications/conditions-de-vie-et-aspirations-des-franciliens-en-2021/
+
 </div>
   
   <a href="#top">Revenir en haut de page</a>

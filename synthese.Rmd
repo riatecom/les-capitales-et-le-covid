@@ -55,6 +55,8 @@ Dans les 2 cas : majorité des gens pensent que se loger n'est pas abordable pou
 L'accès à la propriété est également trop cher pour près de 3/4 des répondants dans les deux cas, la MGP étant un pêu plus optimiste et présentant des EPT aux résultats proches, tout comme Londres où l'ensemble du territoire est assez homogène sur cette question.
 
 Pour ce qui est du télétravail, on peut davantage télétravailler à Londres (54%) qu'à Paris (40%). Spatialement, on retrouve une opposition *inner-London / outer-London* assez marquée, avec quelques exceptions. Et pour Paris, une opposition Centre & ouest *versus le reste du territoire d'enquête, avec principalement le Nord qui présente également une grande part de réponse "ne peut pas travailler".*
+
+Le "comme moi" joue pour beaucoup dans la formation des résultats pour ces deux questions, sans vraiment connaître le profil de chaque répondant il est difficile d'apporter des éléments d'interprétation à ces résultats. (est-ce en fonction de l'âge ? du genre ? de la CSP ?)
 :::
 
 ## Rebondir après la pandémie

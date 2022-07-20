@@ -106,15 +106,17 @@ renforcer ce sentiment d'avoir tout à proximité (cf. IPR)
 ## Quitter les grandes villes après le Covid ?
 
 ***Q14A : How likely, if at all, is it that you will move out of
-Paris/votre commune in the next five years?*** <br> \<div align
-="justify\><https://www.institutparisregion.fr/nos-travaux/publications/conditions-de-vie-et-aspirations-des-franciliens-en-2021/>
+Paris/votre commune in the next five years?*** <br> 
+<div align="justify"> https://www.institutparisregion.fr/nos-travaux/publications/conditions-de-vie-et-aspirations-des-franciliens-en-2021/
 
 </div>
 
 ![](fig/paris_q14a_pos.svg) ![](fig/paris_q14a_neg.svg)
-![](fig/paris_q14a_oth.svg) <br>
+![](fig/paris_q14a_oth.svg) 
+<br>
 
-<a href="#top">Revenir en haut de page</a>
+  <a href="#top">Revenir en haut de page</a>
+
 
 ## Mixité sociale et immigration
 

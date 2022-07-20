@@ -15,16 +15,21 @@ Cette partie du site tachera de résumer les résultats de l'étude réalisée d
 ## Enjeux selon les enquêtés
 
 ::: {align="justify"}
+Paris hétérogène vs Londres plus homogène malgré + d'objets géographiques
+
+Enjeux communs
 :::
 
 ## La vie dans son quartier pendant la Covid
 
 ::: {align="justify"}
+Dans les 2 cas : hyperproximité importante (90% environ en moyenne de l'ensemble des répondants), situation d'homogénéité des résultats dans les deux espaces d'étude.
 :::
 
 ## Quitter les grandes villes après la Covid ?
 
 ::: {align="justify"}
+Trouver citation sur exode urbain / départ des métropoles
 :::
 
 ## Mixité sociale et immigration
@@ -48,3 +53,11 @@ Cette partie du site tachera de résumer les résultats de l'étude réalisée d
 :::
 
 ## Des conclusions à l'étude ?
+
+::: {align="justify"}
+Prise en main de l'enquête compliquée du fait qu'elle n'avait pas vocation à être spatialisée, l'étude a montré qu'il fallait davantage apporté une spatialité aux enquêtes pour pouvoir observer localement les résultats (pas seulement centre et banlieue). Les questions aux échelles variables : certaines portent sur le quartier dans les deux espaces d'étude, d'autres portent sur Londres dans sa globalité alors qu'à Paris c'est sur la commune ==\> difficile de comparer. A cela s'ajoute la réagrégation des résultats en EPT pour le Grand Paris, encore une perte d'info.
+
+Peut on voir une répartition spatiale à Londres ? : pour certaines questions oui
+
+A Paris ? :
+:::

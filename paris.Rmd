@@ -49,6 +49,8 @@ l'enquête.
 
 ## Enjeux selon les enquêtés
 
+#### ***"Q1A. What would you say is the most important issue facing Paris/votre commune today?"***
+
 ::: {align="justify"}
 Le principal enjeu pour l'ensemble des EPT est la Covid-19. Afin d'aller
 un peu plus loin pour cette question, il est alors intéressant de
@@ -62,11 +64,7 @@ alors avec une plus grande hétérogénéité dans les réponses.
 
 ## La vie dans son quartier pendant la Covid
 
-***Q22A*** <br> **"How important, if at all, do you think it is that
-people living in Paris/votre commune have access to all of the local
-facilities they need within their local area, that is the area within
-15-20 minutes' walking distance from their home?"**\
-<br>
+#### ***"Q22A. How important, if at all, do you think it is that people living in Paris/votre commune have access to all of the local facilities they need within their local area, that is the area within 15-20 minutes' walking distance from their home?"*** <br>
 
 ::: {align="justify"}
 Cette question, se refère à la question de l'**hyper-proximité** (avoir
@@ -105,8 +103,7 @@ renforcer ce sentiment d'avoir tout à proximité (cf. IPR)
 
 ## Quitter les grandes villes après le Covid ?
 
-***Q14A : How likely, if at all, is it that you will move out of
-Paris/votre commune in the next five years?*** <br>
+#### ***"Q14A. How likely, if at all, is it that you will move out of Paris/votre commune in the next five years?"*** <br>
 
 ::: {align="justify"}
 <https://www.institutparisregion.fr/nos-travaux/publications/conditions-de-vie-et-aspirations-des-franciliens-en-2021/>
@@ -117,14 +114,15 @@ Paris/votre commune in the next five years?*** <br>
 
 <a href="#top">Revenir en haut de page</a>
 
-## Mixité sociale et immigration
+## Immigration
 
 ::: {align="justify"}
 Cette partie traitera des questions migratoires dans le Grand Paris.
 :::
 
-<br> ***Immigration from outside of France***\
 <br>
+
+#### *"**Q26. Thinking now about immigration to Paris/votre commune, to what extent do you agree or disagree with the following statements? -** Immigration from outside of France has had a positive impact on Paris/Ma commune"* <br>
 
 ::: {align="justify"}
 Pour la question de l'impact positif qu'a l'immigration venant d'hors de
@@ -148,7 +146,11 @@ cette idée. Les EPT Grand Orly Seine Bièvre et Paris-Marne-Est et Bois
 tendent a plus de neutralité vis-à-vis de cette question.
 :::
 
-<br> ***Immigration from elsewhere within France*** <br>
+<br>
+
+#### *"... Immigration from elsewhere within France has had a positive impact on Paris/Ma commune"*
+
+<br>
 
 ::: {align="justify"}
 Pour la question de l'impact positif qu'a l'immigration venant
@@ -168,8 +170,9 @@ l'Est du territoire du Grand Paris semblent quant à eux plutôt en
 désaccord avec cette idée.
 :::
 
-<br> ***I think Paris/Ma commune needs more immigration than the present
-level***
+<br>
+
+#### *"I think Paris/Ma commune needs more immigration than the present level"*
 
 ::: {align="justify"}
 Pour cette question, une majorité des répondants (**52%**) pensent qu'il
@@ -197,8 +200,7 @@ semblent être assez neutre à cette question, ou du moins présentent un
 
 ## Sécurité
 
-***Q33. How safe do you feel walking alone in your local area...***
-***Day***
+#### ***"Q33. How safe do you feel walking alone in your local area...*** *Day**"***
 
 ::: {align="justify"}
 L'immense majorité des répondants se sentent en sécurité la journée dans
@@ -207,8 +209,9 @@ que l'EPT Plaine Commune présente une immense majorité de réponses
 négatives.
 :::
 
-<br> ![](fig/Paris_GRID_Q33_1_pos.svg) ![](fig/Paris_GRID_Q33_1_neg.svg)
-![](fig/Paris_GRID_Q33_1_oth.svg) <br> ***Night***
+#### <br> ![](fig/Paris_GRID_Q33_1_pos.svg) ![](fig/Paris_GRID_Q33_1_neg.svg) ![](fig/Paris_GRID_Q33_1_oth.svg) <br>
+
+####  *... at Night"*
 
 ::: {align="justify"}
 En opposition avec la journée, on retrouve une perte du sentiment de
@@ -247,10 +250,7 @@ d'environ 11 000 € et l'EPT Paris Terres d'Envol (le moins cher)
 d'environ 2 900 €.
 :::
 
-***Q11B. Thinking now about living in Paris/votre commune, to what
-extent do you agree or disagree with the following statements?*** <br>
-***L'immobilier dans ma commune est abordable pour les gens comme moi***
-<br>
+#### ***"Q11B. Thinking now about living in Paris/votre commune, to what extent do you agree or disagree with the following statements?*** - ***L'immobilier dans ma commune est abordable pour les gens comme moi*** ."<br>
 
 ::: {align="justify"}
 Une majorité des répondants (**52%**) pensent que leur commune n'offre
@@ -262,9 +262,7 @@ hors du Grand Paris ont davantage le sentiment que leur commune est
 abordable pour les gens comme eux.
 :::
 
-![](fig/Paris_GRID_Q11B_2_pos.svg) ![](fig/Paris_GRID_Q11B_2_neg.svg)
-![](fig/Paris_GRID_Q11B_2_oth.svg) <br>***L'accès à la propriété est
-trop cher pour les gens comme moi*** <br>
+#### ![](fig/Paris_GRID_Q11B_2_pos.svg) ![](fig/Paris_GRID_Q11B_2_neg.svg) ![](fig/Paris_GRID_Q11B_2_oth.svg) <br>"....*L'accès à la propriété est trop cher pour les gens comme moi"* <br>
 
 ::: {align="justify"}
 La question de l'accès à la propriété a un résultat plus tranché puisque
@@ -279,9 +277,11 @@ petite couronne.
 :::
 
 ![](fig/Paris_GRID_Q11B_3_pos.svg) ![](fig/Paris_GRID_Q11B_3_neg.svg)
-![](fig/Paris_GRID_Q11B_3_oth.svg) <br>***Télétravail***
-![](fig/Paris_qd12_pos.svg) ![](fig/Paris_qd12_neg.svg)
-![](fig/Paris_qd12_oth.svg)
+![](fig/Paris_GRID_Q11B_3_oth.svg) <br>
+
+#### ***"QD12. Which of these best describes your current working arrangements?"***
+
+#### ![](fig/Paris_qd12_pos.svg) ![](fig/Paris_qd12_neg.svg) ![](fig/Paris_qd12_oth.svg)
 
 ::: {align="justify"}
 Si le télétravail est une pratique de plus en plus courante, tout le
@@ -315,7 +315,9 @@ Cette série de question a pour objectif de montrer l'optimisme des
 parisiens après la pandémie vis à vis de différentes thématiques.
 :::
 
-***Q37*** <br>**Transports publics** <br>
+#### ***"Q37. Thinking about Paris/Paris et sa région in the next few years after the coronavirus pandemic, do you think each of the following will get better, get worse, or stay the same? ..."***
+
+#### <br>*Transports publics* <br>
 
 ::: {align="justify"}
 Pour ce qui est des transports publics, **45%** des répondants pensent
@@ -336,9 +338,7 @@ Grand Paris, il est difficile de mesurer l'impact positif ou négatif du
 GPE du fait de l'éparpillement des répondants.
 :::
 
-![](fig/Paris_GRID_Q37_NEW_1_neg.svg)
-![](fig/Paris_GRID_Q37_NEW_1_oth.svg) <br> **Abordabilité des
-logements** <br>
+#### ![](fig/Paris_GRID_Q37_NEW_1_neg.svg) ![](fig/Paris_GRID_Q37_NEW_1_oth.svg) <br> *Abordabilité des logements* <br>
 
 ::: {align="justify"}
 Contrairement aux transports, **55%** des répondants pensent que
@@ -348,9 +348,7 @@ grand pessimisme et le très faible optimiste que l'EPT Grand-Orly Seine
 Bièvre, en opposition avec Paris Ouest La Défense ou l'Hors Grand Paris.
 :::
 
-![](fig/Paris_GRID_Q37_NEW_2_pos.svg)
-![](fig/Paris_GRID_Q37_NEW_2_neg.svg)
-![](fig/Paris_GRID_Q37_NEW_2_oth.svg) <br> **Opportunités d'emploi**<br>
+#### ![](fig/Paris_GRID_Q37_NEW_2_pos.svg) ![](fig/Paris_GRID_Q37_NEW_2_neg.svg) ![](fig/Paris_GRID_Q37_NEW_2_oth.svg) <br> *Opportunités d'emploi*<br>
 
 ::: {align="justify"}
 On retrouve environ 1/3 des répondants pour chaque réponse vis à vis de
@@ -362,9 +360,7 @@ cette logique avec les nombreux travaux encourageant le développement
 économique au nord et aux alentours de la Défense
 :::
 
-![](fig/Paris_GRID_Q37_NEW_3_pos.svg)
-![](fig/Paris_GRID_Q37_NEW_3_neg.svg)
-![](fig/Paris_GRID_Q37_NEW_3_oth.svg) <br> **Niveaux de pollution** <br>
+#### ![](fig/Paris_GRID_Q37_NEW_3_pos.svg) ![](fig/Paris_GRID_Q37_NEW_3_neg.svg) ![](fig/Paris_GRID_Q37_NEW_3_oth.svg) <br> *Niveaux de pollution* <br>
 
 ::: {align="justify"}
 La question de la gestion des niveaux de pollution est au coeur des
@@ -378,7 +374,7 @@ contrairement aux EPT présents au Sud et à l'extrême est du Grand Paris.
 ![](fig/Paris_GRID_Q37_NEW_4_neg.svg)
 ![](fig/Paris_GRID_Q37_NEW_4_oth.svg)
 
-<br> **Cutlure** <br>
+#### <br> *Cutlure* <br>
 
 ::: {align="justify"}
 Si ***41%*** des répondants pensent que la situation des lieux de
@@ -388,9 +384,7 @@ années. La Ville de Paris présente d'ailleurs des résultats proches de
 la moyenne dans toutes les réponses possibles, comme une majorité d'EPT.
 :::
 
-![](fig/Paris_GRID_Q37_NEW_6_pos.svg)
-![](fig/Paris_GRID_Q37_NEW_6_neg.svg)
-![](fig/Paris_GRID_Q37_NEW_6_oth.svg) <br> **Services publics** <br>
+#### ![](fig/Paris_GRID_Q37_NEW_6_pos.svg) ![](fig/Paris_GRID_Q37_NEW_6_neg.svg) ![](fig/Paris_GRID_Q37_NEW_6_oth.svg) <br> *Services publics* <br>
 
 ::: {align="justify"}
 ***1/3*** des répondants pensent que les services publics vont se

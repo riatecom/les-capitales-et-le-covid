@@ -40,11 +40,21 @@ Trouver citation sur exode urbain / départ des métropoles
 ## Sécurité
 
 ::: {align="justify"}
+Répondants des 2 espaces d'études se sentent en sécurité dans leur quartier (84% pour Paris et 88% pour Londres). A Londres : très homogène, tous proche de la moyenne, alors qu'à Paris 1 EPT se sent moins en sécurité : Plaine Commune.
+
+La nuit, les gens se sentent moins en sécurité dans les deux cas, on descend a 52% à Paris et 58% à Londres. = Davantage de rouge sur la carte "se sentir en sécurité". Opposition ouest-reste de la MGP . Londres, l'ouest se sent moins en sécurité qu'une partie de l'*Inner London* ou de l'est.
 :::
 
 ## Logement, travail et vie de famille
 
 ::: {align="justify"}
+<https://www.bloomberg.com/opinion/articles/2021-10-19/covid-didn-t-make-the-dream-of-cheaper-london-paris-come-true#xj4y7vzkg>
+
+Dans les 2 cas : majorité des gens pensent que se loger n'est pas abordable pour les gens comme eux. Sentiment renforcé dans la Vile de Paris alors que la situation de l'*Inner London* est
+
+L'accès à la propriété est également trop cher pour près de 3/4 des répondants dans les deux cas, la MGP étant un pêu plus optimiste et présentant des EPT aux résultats proches, tout comme Londres où l'ensemble du territoire est assez homogène sur cette question.
+
+Pour ce qui est du télétravail, on peut davantage télétravailler à Londres (54%) qu'à Paris (40%). Spatialement, on retrouve une opposition *inner-London / outer-London* assez marquée, avec quelques exceptions. Et pour Paris, une opposition Centre & ouest *versus le reste du territoire d'enquête, avec principalement le Nord qui présente également une grande part de réponse "ne peut pas travailler".*
 :::
 
 ## Rebondir après la pandémie

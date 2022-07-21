@@ -55,7 +55,9 @@ l'enquête.
 Le principal enjeu pour l'ensemble des EPT est la Covid-19. Afin d'aller
 un peu plus loin pour cette question, il est alors intéressant de
 regarder la 2è réponse la plus choisie selon les EPT. On se retrouve
-alors avec une plus grande hétérogénéité dans les réponses.
+alors avec une plus grande hétérogénéité dans les réponses, et cela
+malgré le faible nombre d'objets géographiques en présence (13 pour 8
+réponses différentes)
 :::
 
 ![](fig/paris_issue2modif.png)
@@ -211,7 +213,7 @@ négatives.
 
 #### <br> ![](fig/Paris_GRID_Q33_1_pos.svg) ![](fig/Paris_GRID_Q33_1_neg.svg) ![](fig/Paris_GRID_Q33_1_oth.svg) <br>
 
-####  *... at Night"*
+#### *... at Night"*
 
 ::: {align="justify"}
 En opposition avec la journée, on retrouve une perte du sentiment de
@@ -244,10 +246,10 @@ page</a>
 ::: {align="justify"}
 La figure 1 est présentée dans le but d'apporter quelques éléments de
 compréhension quant aux résultats qui seront présentés ci-dessous. Elle
-montre le prix moyen au m² des **appartements** en 2020. Pour donner des
-exemples, la Ville de Paris (le plus cher) possède un prix au m² moyen
-d'environ 11 000 € et l'EPT Paris Terres d'Envol (le moins cher)
-d'environ 2 900 €.
+montre le prix moyen au m² des **appartements** en 2020. Pour donner
+deux exemples de lecture, la Ville de Paris (le plus cher) possède un
+prix au m² moyen d'environ 11 000 € et l'EPT Paris Terres d'Envol (le
+moins cher) d'environ 2 900 €.
 :::
 
 #### ***"Q11B. Thinking now about living in Paris/votre commune, to what extent do you agree or disagree with the following statements?*** - ***L'immobilier dans ma commune est abordable pour les gens comme moi*** ."<br>
@@ -285,24 +287,24 @@ petite couronne.
 
 ::: {align="justify"}
 Si le télétravail est une pratique de plus en plus courante, tout le
-monde n'est pas mis sur un pied égalité vis à vis de cette pratique,
-notamment du fait de la vie de famille ou de la disposition des
-logements. Parmi l'ensemble des répondants, ***40%*** ont la possibilité
-de travailler depuis chez eux. *A contrario*, ***21%*** ne peuvent pas
-être en télétravail. Géographiquement parlant, le constat est net : les
-EPT au Nord du Grand Paris ont moins la capacité de télétravailler que
-le reste du territoire, notamment Paris, les communes Hors du Grand
-Paris et les EPT de l'Ouest. En prenant l'exemple de l'EPT Plaine
-Commune, majoritairement composé de communes populaires (Ribardière
-2018), les ménages travaillent en tant qu'ouvriers et employés, or il
-s'agit de professions n'offrant pas la plupart du temps la possiblité de
-télétravailler. On peut également penser qu'à cela s'ajoute la
-composition du foyer (familles nombreuses ou monoparentales dans des
-logements non-adaptés). Il faut également noter la présence marquée sur
-la première carte de l'EPT Grand Paris Sud Est Avenir qui peut être
-interprêté comme un espace où l'on ne télétravaille pas, alors qu'il
-s'agit plutôt d'un espace où les enquêtés ne travaillent pas (ou sont en
-congés).
+monde n'est pas mis sur même un pied d'égalité vis à vis de cette
+pratique, notamment du fait de la vie de famille ou de la disposition
+des logements. Parmi l'ensemble des répondants, ***40%*** ont la
+possibilité de travailler depuis chez eux. *A contrario*, ***21%*** ne
+peuvent pas être en télétravail. Géographiquement parlant, le constat
+est net : les EPT au Nord du Grand Paris ont moins la capacité de
+télétravailler que le reste du territoire, notamment Paris, les communes
+Hors du Grand Paris et les EPT de l'Ouest. En prenant l'exemple de l'EPT
+Plaine Commune, majoritairement composé de communes populaires
+(Ribardière 2018), les ménages travaillent en tant qu'ouvriers et
+employés, or il s'agit de professions n'offrant pas la plupart du temps
+la possiblité de télétravailler. On peut également penser qu'à cela
+s'ajoute la composition du foyer (familles nombreuses ou monoparentales
+dans des logements non-adaptés). Il faut également noter la présence
+marquée sur la première carte de l'EPT Grand Paris Sud Est Avenir qui
+peut être interprêté comme un espace où l'on ne télétravaille pas, alors
+qu'il s'agit plutôt d'un espace où les enquêtés ne travaillent pas (ou
+sont en congés).
 <https://www.institutparisregion.fr/nos-travaux/publications/conditions-de-vie-et-aspirations-des-franciliens-en-2021/>
 :::
 

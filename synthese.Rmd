@@ -15,15 +15,13 @@ Cette partie du site tachera de résumer les résultats de l'étude réalisée d
 ## Enjeux selon les enquêtés
 
 ::: {align="justify"}
-Paris hétérogène vs Londres plus homogène malgré + d'objets géographiques
-
-Enjeux communs
+Pour cette question des principaux enjeux, on retrouve deux situations assez distinctes entre les deux terrains d'enquête. D'une part, si l'on se focalise sur la première réponse choisie par les enquêtés, les EPT du Grand Paris sont tous préoccupés en majorité par la situation sanitaire. A Londres, quelques Boroughs présentent d'autres réponses comme la criminalité ou le coût de la vie. D'autre part, pour la 2ème réponse la plus choisie, la Métropole du Grand Paris présente une situation très hétérogène (8 réponses différentes pour 13 objets géographiques) alors que Londres montre plus d'homogénéité sur son territoire. Il est également important que seuls le logement et la criminalité sont communs aux deux espaces d'études.
 :::
 
 ## La vie dans son quartier pendant la Covid
 
 ::: {align="justify"}
-Dans les 2 cas : hyperproximité importante (90% environ en moyenne de l'ensemble des répondants), situation d'homogénéité des résultats dans les deux espaces d'étude.
+Dans les 2 cas la question de l'hyperproximité est importante (90% environ en moyenne de l'ensemble des répondants), on retrouve alors une certaine homogonéité, avec des résultats proches de ces 90% pour l'ensemble des objets géographiques quelque soit le terrain d'étude.
 :::
 
 ## Quitter les grandes villes après la Covid ?
@@ -32,9 +30,12 @@ Dans les 2 cas : hyperproximité importante (90% environ en moyenne de l'ensembl
 Trouver citation sur exode urbain / départ des métropoles
 :::
 
-## Mixité sociale et immigration
+## Immigration
 
 ::: {align="justify"}
+Londres dans sa généralité = environ 2 fois plus content de l'immigration venant de l'étranger que Paris (61% contre 37%
+
+Londres 25% pour plus d'immigration contre 15% pour Paris : à noter la différence d'échelle, la question porte sur l'ensemble de Londres du côté britannique mais uniquement sur la commune du côté français. ==\> Plus proche de son cadre de vie direct = pas envie de "changements".
 :::
 
 ## Sécurité
@@ -56,20 +57,23 @@ L'accès à la propriété est également trop cher pour près de 3/4 des répon
 
 Pour ce qui est du télétravail, on peut davantage télétravailler à Londres (54%) qu'à Paris (40%). Spatialement, on retrouve une opposition *inner-London / outer-London* assez marquée, avec quelques exceptions. Et pour Paris, une opposition Centre & ouest *versus le reste du territoire d'enquête, avec principalement le Nord qui présente également une grande part de réponse "ne peut pas travailler".*
 
-Le "comme moi" joue pour beaucoup dans la formation des résultats pour ces deux questions, sans vraiment connaître le profil de chaque répondant il est difficile d'apporter des éléments d'interprétation à ces résultats. (est-ce en fonction de l'âge ? du genre ? de la CSP ?)
+Le "comme moi" joue pour beaucoup dans la formation des résultats pour ces deux questions, sans vraiment connaître le profil de chaque répondant il est difficile d'apporter des éléments d'interprétation à ces résultats. (est-ce en fonction de l'âge ? du genre ? de la CSP ?) (Manque d'accès au profil des gens, dans un soucis d'anonymat bien entendu)
 :::
 
 ## Rebondir après la pandémie
 
 ::: {align="justify"}
+Renvoie à l'optimisme général / de chaque objet géographique
 :::
 
 ## Des conclusions à l'étude ?
 
 ::: {align="justify"}
-Prise en main de l'enquête compliquée du fait qu'elle n'avait pas vocation à être spatialisée, l'étude a montré qu'il fallait davantage apporté une spatialité aux enquêtes pour pouvoir observer localement les résultats (pas seulement centre et banlieue). Les questions aux échelles variables : certaines portent sur le quartier dans les deux espaces d'étude, d'autres portent sur Londres dans sa globalité alors qu'à Paris c'est sur la commune ==\> difficile de comparer. A cela s'ajoute la réagrégation des résultats en EPT pour le Grand Paris, encore une perte d'info.
+Prise en main de l'enquête compliquée du fait qu'elle n'avait pas vocation à être spatialisée, l'étude a montré qu'il fallait davantage apporté une spatialité aux enquêtes pour pouvoir observer localement les résultats (pas seulement centre et banlieue). exemple : Paris pas d'arrondissements et répartition en communes (alors qu'EPT est le compromis le plus adéquat en terme d'agrégation)
+
+Les questions aux échelles variables : certaines portent sur le quartier dans les deux espaces d'étude, d'autres portent sur Londres dans sa globalité alors qu'à Paris c'est sur la commune ==\> difficile de comparer.
 
 Peut on voir une répartition spatiale à Londres ? : pour certaines questions oui
 
-A Paris ? :
+A Paris ? : idem
 :::

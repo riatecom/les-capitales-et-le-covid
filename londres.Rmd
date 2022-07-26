@@ -75,6 +75,13 @@ importance.
 #### ![](fig/Londres_Q14a_pos.svg) ![](fig/Londres_Q14a_neg.svg) ![](fig/Londres_Q14a_oth.svg)
 
 ::: {align="justify"}
+Un sondage mené par la *London Assembly* à l'été 2020 nous informe que
+la moitié des Londoniens veulent quitter Londres. Un sentiment renforcé
+par la pandémie puisque 14% des Londoniens veulent quitter la ville à
+cause de cette dernière.
+
+<https://www.london.gov.uk/press-releases/assembly/escaping-the-city-post-covid>
+
 ***56%*** des enquêtes ont répondu qu'ils ne comptaient pas quitter
 Londres, contre ***28%*** qui sont certains ou presque de vouloir
 quitter la ville. On peut conclure qu'une majorité des répondants est

@@ -6,12 +6,6 @@ title: "Synthèse"
 
 <br>
 
-::: {align="justify"}
-Cette partie du site tachera de résumer les résultats de l'étude réalisée durant mon stage. Elle portera principalement sur une comparaison des deux espaces d'études (Paris et Londres), tout en rappelant la situation interne de ces derniers en fonction des différentes questions traitées.
-:::
-
-<br>
-
 ## Enjeux selon les enquêtés
 
 ::: {align="justify"}
@@ -30,7 +24,7 @@ Dans les 2 cas la question de l'hyperproximité est importante (90% environ en m
 Trouver citation sur exode urbain / départ des métropoles
 :::
 
-## Immigration
+## Immigration 
 
 ::: {align="justify"}
 Londres dans sa généralité = environ 2 fois plus content de l'immigration venant de l'étranger que Paris (61% contre 37%
@@ -57,9 +51,9 @@ Dans les 2 cas : majorité des gens pensent que se loger n'est pas abordable pou
 
 L'accès à la propriété est également trop cher pour près de 3/4 des répondants dans les deux cas, la MGP étant un pêu plus optimiste et présentant des EPT aux résultats proches, tout comme Londres où l'ensemble du territoire est assez homogène sur cette question.
 
-Pour ce qui est du télétravail, on peut davantage télétravailler à Londres (54%) qu'à Paris (40%). Spatialement, on retrouve une opposition *inner-London / outer-London* assez marquée, avec quelques exceptions. Et pour Paris, une opposition Centre & ouest *versus le reste du territoire d'enquête, avec principalement le Nord qui présente également une grande part de réponse "ne peut pas travailler".*
+Pour ce qui est du télétravail, on peut davantage télétravailler à Londres (54%) qu'à Paris (40%). Spatialement, on retrouve une opposition *inner-London / outer-London* assez marquée, avec quelques exceptions. Et pour Paris, une opposition Centre & ouest *versus* le reste du territoire d'enquête, avec principalement le Nord qui présente également une grande part de réponse "ne peut pas travailler".
 
-Le "comme moi" joue pour beaucoup dans la formation des résultats pour ces deux questions, sans vraiment connaître le profil de chaque répondant il est difficile d'apporter des éléments d'interprétation à ces résultats. (est-ce en fonction de l'âge ? du genre ? de la CSP ?) (Manque d'accès au profil des gens, dans un soucis d'anonymat bien entendu)
+Le "comme moi" joue pour beaucoup dans la formation des résultats pour ces deux questions, sans vraiment connaître le profil de chaque répondant il est difficile d'apporter des éléments d'interprétation à ces résultats. (est-ce en fonction de l'âge ? du genre ? de la CSP ?)
 :::
 
 ## Rebondir après la pandémie
@@ -71,11 +65,9 @@ Renvoie à l'optimisme général / de chaque objet géographique
 ## Des conclusions à l'étude ?
 
 ::: {align="justify"}
-Prise en main de l'enquête compliquée du fait qu'elle n'avait pas vocation à être spatialisée, l'étude a montré qu'il fallait davantage apporté une spatialité aux enquêtes pour pouvoir observer localement les résultats (pas seulement centre et banlieue). exemple : Paris pas d'arrondissements et répartition en communes (alors qu'EPT est le compromis le plus adéquat en terme d'agrégation)
+La première chose à préciser est que la prise en main de l'enquête a été compliquée, notamment du fait qu'elle n'avait pas vocation à être spatialisée. Le travail effectué a alors montré qu'il fallait davantage apporté une spatialité aux enquêtes pour pouvoir observer localement les résultats (pas seulement centre et banlieue). De plus le fait que pour Paris, les arrondissements ont été mis de côté fait qu'on se retrouve avec une masse de répondants (500) pour cet objet géographique, qu'on ne retrouve pas sur les autres (moins de 20).
 
-Les questions aux échelles variables : certaines portent sur le quartier dans les deux espaces d'étude, d'autres portent sur Londres dans sa globalité alors qu'à Paris c'est sur la commune ==\> difficile de comparer.
+Un autre point à mettre en avant est la différence d'échelle entre les deux terrains d'enquête. En effet, si certaines questions portaient sur le quartier du répondant dans les deux cas, d'autres questions traitaient de la commune pour le Grand Paris, et de Londres dans sa globalité pour Londres. Il est donc difficile de comparer les deux territoires dans ces cas là, malgré une réagrégation avec des mailles relativement similaires géographiquement parlant.
 
-Peut on voir une répartition spatiale à Londres ? : pour certaines questions oui
-
-A Paris ? : idem
+De plus, dans les deux cas d'études, on ne peut pas observer une réelle géographie des résultats de l'enquête, certaines questions en présentent une comme un effet centre-périphérie par exemple, mais il s'agit là d'exceptions, la majorité des questions n'offrent en effet pas de résultats spatialement interprétables (il faudrait prendre en compte tous les aspects de chaque territoire pour comprendre pourquoi on obtient ces résultats).
 :::

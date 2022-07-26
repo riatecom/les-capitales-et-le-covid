@@ -59,15 +59,24 @@ alors avec une plus grande hétérogénéité dans les réponses, et cela
 malgré le faible nombre d'objets géographiques en présence (13 pour 8
 réponses différentes).
 
+Si l'on prend le cas de l'EPT Plaine Commune, où la **qualité de l'air /
+pollution** est le deuxième enjeu le plus cité avec **14%** des
+répondants de ce dernier, il s'agit d'une perception justifiée par la
+concentration de grands axes routiers, très souvent saturés, qui peut
+expliquer ce résultat. Un article de 20 Minutes parle même de la plus
+mauvaise qualité de l'air (en extérieur) de toute l'ile de France autour
+de ces axes :
 <https://www.20minutes.fr/planete/3266779-20220406-pollution-la-qualite-de-l-air-pres-des-autoroutes-de-seine-saint-denis-est-toujours-tres-mauvaise>
 
-:   Plaine Commune & qualité de l'air : présence de grands axes routiers
-
-<https://www.francetvinfo.fr/sante/pourquoi-paris-est-elle-toujours-si-sale_4765243.html>
-
-:   Paris réputation ville sale, on retrouve ce constat avec la carte
-    ci-dessous puisqu'il s'agit du 2e enjeu le plus cité par les
-    enquêtés de Paris *intra-muros*.
+Un autre exemple à étudier est la Ville de Paris où la **propreté de
+l'espace public** est le deuxième enjeu le plus cité (**10.1%**). On
+entend souvent dire que Paris est une ville sale, faisant parfois la une
+de certains articles de presse :
+<https://www.francetvinfo.fr/sante/pourquoi-paris-est-elle-toujours-si-sale_4765243.html>.
+Il s'agit d'un sentiment qui est agrégé a l'échelle de toute la ville,
+cependant il est important de noter que les arrondissements n'étant pas
+pris en compte dans l'enquête, il est difficile de se rendre compte
+réellement de la situation du côté de la capitale française.
 :::
 
 ![](fig/paris_issue2modif.png)
@@ -84,7 +93,10 @@ accès à tous les services essentiels a moins de 20 min à pied de son
 domicile). Selon l'enquête réalisée sur le sol francilien, une très
 grande majorité des enquêtés pensent que cette notion est importante.
 Ils sont en effet **90%** à penser cela, contre **7%** à penser le
-contraire.
+contraire. C'est un sentiment qui peut être renforcé par les
+confinements qui ont eu lieu. En effet, le fait de **devoir** vivre dans
+son quartier a permis à chacun de redécouvrir son quartier tout en ayant
+accès à tous les services nécessaires.
 :::
 
 <br> ![](fig/Paris_Q22A_pos.svg)
@@ -96,9 +108,7 @@ EPT ont une valeur proche de la moyenne de l'espace étudié. Les deux
 cartes ci-dessous montrent les résultats obtenus pour l'indiférence ou
 la non importance de cette question. On retrouve alors de gros écarts
 entre certains EPT, causés principalement par le faible nombre de
-répondants qui accentue l'effet "d'extrême". Parler du fait que le covid
-et les confinements ont fait qu'on devait vivre a 1km de chez soi,
-renforcer ce sentiment d'avoir tout à proximité (cf. IPR)
+répondants qui accentue l'effet "d'extrême".
 :::
 
 ::: row
@@ -118,7 +128,32 @@ renforcer ce sentiment d'avoir tout à proximité (cf. IPR)
 #### ***"Q14A. How likely, if at all, is it that you will move out of Paris/votre commune in the next five years?"*** <br>
 
 ::: {align="justify"}
-<https://www.institutparisregion.fr/nos-travaux/publications/conditions-de-vie-et-aspirations-des-franciliens-en-2021/>
+De nombreuses initiatives (start-ups, médias...) ont vu le jour autour
+de la question de quitter Paris, on peut notamment citer *Paris je te
+quitte*. Ce sentiment de vouloir changer de vie n'est pas nouveaux mais
+la pandémie a eu pour conséquence de faire couler énormément d'encre sur
+ce sujet, en parlant parfois d'**exode urbain** (terme à de multiples
+reprises analysé et soumis à critique).
+
+Dans le cadre de notre enquête, **45%** des enquêtés veulent quitter
+leur commune, un chiffre identique pour ceux ne voulant pas la quitter.
+Les EPT présents au nord-est sont plus enclin à vouloir quitter leur
+commune que le reste de l'espace d'études. Ces EPT sont également ceux
+qui présentent un résultat largement inférieur à la moyenne quant au
+fait de ne pas vouloir quitter la ville. *A contrario*, l'EPT
+Paris-Est-Marne et Bois, et dans une moindre mesure l'EPT Plaine
+Commune, sont les EPT où à la fois on ne veut pas quitter sa commune,
+mais également là où les résultats pour le fait de vouloir quitter sa
+commune sont les plus faibles.
+
+Il est d'ailleurs important de préciser que quitter la ville dépend
+grandement du profil des personnes, les cadres sont notamment plus
+prédisposés à vouloir quitter Paris selon un article de ouest-france :
+<https://www.ouest-france.fr/economie/entreprises/vie-de-bureau/plus-de-huit-cadres-parisiens-sur-dix-veulent-quitter-la-capitale-55785d68-05b5-11ec-b2a0-6221a0205df8>
+
+La formulation de la question peut être piégeuse pour le traitement de
+cette question. En effet, le terme "ma commune" peut vouloir dire de
+changer de communes mais rester au sein de la Métropole du Grand Paris.
 :::
 
 ![](fig/paris_q14a_pos.svg) ![](fig/paris_q14a_neg.svg)
@@ -127,10 +162,6 @@ renforcer ce sentiment d'avoir tout à proximité (cf. IPR)
 <a href="#top">Revenir en haut de page</a>
 
 ## Immigration
-
-::: {align="justify"}
-Cette partie traitera des questions migratoires dans le Grand Paris.
-:::
 
 <br>
 
@@ -217,8 +248,7 @@ semblent être assez neutre à cette question, ou du moins présentent un
 ::: {align="justify"}
 L'immense majorité des répondants se sentent en sécurité la journée dans
 leur quartier. Avec les cartes présentés ci-dessous on note cependant
-que l'EPT Plaine Commune présente une immense majorité de réponses
-négatives.
+que l'EPT Plaine Commune présente une grand part de réponses négatives.
 :::
 
 #### <br> ![](fig/Paris_GRID_Q33_1_pos.svg) ![](fig/Paris_GRID_Q33_1_neg.svg) ![](fig/Paris_GRID_Q33_1_oth.svg) <br>
@@ -317,6 +347,7 @@ marquée sur la première carte de l'EPT Grand Paris Sud Est Avenir qui
 peut être interprêté comme un espace où l'on ne télétravaille pas, alors
 qu'il s'agit plutôt d'un espace où les enquêtés ne travaillent pas (ou
 sont en congés).
+
 <https://www.institutparisregion.fr/nos-travaux/publications/conditions-de-vie-et-aspirations-des-franciliens-en-2021/>
 :::
 
@@ -368,7 +399,7 @@ Bièvre, en opposition avec Paris Ouest La Défense ou l'Hors Grand Paris.
 On retrouve environ 1/3 des répondants pour chaque réponse vis à vis de
 l'avenir des opportunités d'emploi, avec un pessimisme légèrement plus
 présent (***26%***). La Ville de Paris et les EPT du Nord semblent plus
-tendre vers un optimisme, contrairement au Sud, est surtout à l'Est, qui
+tendre vers un optimisme, contrairement au Sud, et surtout à l'Est, qui
 sont plus pessimistes vis à vis de cette question. On peut transposer
 cette logique avec les nombreux travaux encourageant le développement
 économique au nord et aux alentours de la Défense
@@ -380,8 +411,8 @@ cette logique avec les nombreux travaux encourageant le développement
 La question de la gestion des niveaux de pollution est au coeur des
 politiques des villes aujourd'hui. Pourtant, seulement ***18%*** de
 l'ensemble des enquêtés semblent optimistes vis à vis de cette question.
-La ville de Paris semble d'ailleurs particulièrement optimiste,
-contrairement aux EPT présents au Sud et à l'extrême est du Grand Paris.
+La ville de Paris semble d'ailleurs plus optimiste, contrairement que
+les EPT présents au Sud et à l'extrême est du Grand Paris.
 :::
 
 ![](fig/Paris_GRID_Q37_NEW_4_pos.svg)

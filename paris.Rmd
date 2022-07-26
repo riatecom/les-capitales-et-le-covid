@@ -60,12 +60,14 @@ malgré le faible nombre d'objets géographiques en présence (13 pour 8
 réponses différentes).
 
 <https://www.20minutes.fr/planete/3266779-20220406-pollution-la-qualite-de-l-air-pres-des-autoroutes-de-seine-saint-denis-est-toujours-tres-mauvaise>
-: Plaine Commune & qualité de l'air : présence de grands axes routiers
+
+:   Plaine Commune & qualité de l'air : présence de grands axes routiers
 
 <https://www.francetvinfo.fr/sante/pourquoi-paris-est-elle-toujours-si-sale_4765243.html>
-: Paris réputation ville sale, on retrouve ce constat avec la carte
-ci-dessous puisqu'il s'agit du 2e enjeu le plus cité par les enquêtés de
-Paris intra-muros
+
+:   Paris réputation ville sale, on retrouve ce constat avec la carte
+    ci-dessous puisqu'il s'agit du 2e enjeu le plus cité par les
+    enquêtés de Paris *intra-muros*.
 :::
 
 ![](fig/paris_issue2modif.png)
@@ -260,7 +262,7 @@ prix au m² moyen d'environ 11 000 € et l'EPT Paris Terres d'Envol (le
 moins cher) d'environ 2 900 €.
 :::
 
-#### ***"Q11B. Thinking now about living in Paris/votre commune, to what extent do you agree or disagree with the following statements?*** - ***L'immobilier dans ma commune est abordable pour les gens comme moi*** ."
+#### \*\*\*"Q11B. Thinking now about living in Paris/votre commune, to what extent do you agree or disagree with the following statements?\*\*\* - ***L'immobilier dans ma commune est abordable pour les gens comme moi*** ."
 
 #### <br>
 

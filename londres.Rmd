@@ -163,7 +163,7 @@ centre-est qu'à l'est ou dans le centre de Londres.
 ^<https://www.propertyinvestortoday.co.uk/breaking-news/2019/9/what-is-the-average-cost-and-size-of-london-homes-by-borough>^
 :::
 
-#### <br>***"Q11B. Thinking now about living in London, to what extent do you agree or disagree with the following statements?*** - *L'immobilier à Londres est abordable pour les gens comme moi* ." <br>
+#### <br>\*\*\*"Q11B. Thinking now about living in London, to what extent do you agree or disagree with the following statements?\*\*\* - *L'immobilier à Londres est abordable pour les gens comme moi* ." <br>
 
 ::: {align="justify"}
 ***65%*** des enquêtés pensent que se loger est trop cher pour eux,

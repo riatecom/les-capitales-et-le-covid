@@ -21,23 +21,23 @@ Dans les 2 cas la question de l'hyperproximité est importante (90% environ en m
 ## Quitter les grandes villes après la Covid ?
 
 ::: {align="justify"}
-Trouver citation sur exode urbain / départ des métropoles
+On retrouve deux situations différentes pour cette question de quitter la ville après la Covid. D'une part, Paris où il y a **45%** des répondants qui veulent rester dans leur commune, tout comme **45%** qui veulent la quitter. A Londres la situation est plus propice au fait de rester au sein de Londres avec **56%** voulant y rester.
 :::
 
-## Immigration 
+## Immigration
 
 ::: {align="justify"}
-Londres dans sa généralité = environ 2 fois plus content de l'immigration venant de l'étranger que Paris (61% contre 37%
+L'espace d'étude londonnien est presque deux fois plus content que l'immigration venant de l'étranger que l'espace francilien (61% contre 37%). Dans une plus large mesure, les Londoniens semblent plus disposées à avoir plus d'immigration (25%) que les Franciliens (15%).
 
-Londres 25% pour plus d'immigration contre 15% pour Paris : à noter la différence d'échelle, la question porte sur l'ensemble de Londres du côté britannique mais uniquement sur la commune du côté français. ==\> Plus proche de son cadre de vie direct = pas envie de "changements".
+Il est important de noter la différence d'échelle, la question porte sur l'ensemble de Londres du côté britannique mais uniquement sur la commune du côté français. On peut ramener ça au fait que les gens veulent quelque chose, mais pas forcément juste à côté de chez eux.
 :::
 
 ## Sécurité
 
 ::: {align="justify"}
-Répondants des 2 espaces d'études se sentent en sécurité dans leur quartier (84% pour Paris et 88% pour Londres). A Londres : très homogène, tous proche de la moyenne, alors qu'à Paris 1 EPT se sent moins en sécurité : Plaine Commune.
+Les épondants des deux espaces d'études se sentent en sécurité dans leur quartier (84% pour Paris et 88% pour Londres). A Londres, la situation est très homogène, tous les Boroughs sont proches de la moyenne. A Paris, le constat est le même à l'exception d'un EPT qui se sent moins en sécurité : Plaine Commune.
 
-La nuit, les gens se sentent moins en sécurité dans les deux cas, on descend a 52% à Paris et 58% à Londres. = Davantage de rouge sur la carte "se sentir en sécurité". Opposition ouest-reste de la MGP . Londres, l'ouest se sent moins en sécurité qu'une partie de l'*Inner London* ou de l'est.
+La nuit, les gens se sentent moins en sécurité dans les deux cas, on descend a 52% à Paris et 58% à Londres. Il y a donc davantage de rouge sur les cartes "se sentir en sécurité". On retrouve également une opposition entre l'ouest et le reste de la Métropole du Grand Paris. Du côté Londonien, il s'agit de l'ouest qui se sent moins en sécurité que l'est ou qu'une partie de L*'inner London*.
 :::
 
 ## Logement, travail et vie de famille
@@ -59,7 +59,9 @@ Le "comme moi" joue pour beaucoup dans la formation des résultats pour ces deux
 ## Rebondir après la pandémie
 
 ::: {align="justify"}
-Renvoie à l'optimisme général / de chaque objet géographique
+Cette partie permet de montrer l'importance d'avoir trois représentations différentes pour chaque questions. En effet, il y a une grande part de répondants qui ont un avis neutre ou indécis sur pas mal de questions, ce qui en fait les principaux chois de réponses dans l'enquête.
+
+On soulève également que les Franciliens sont plus neutres ou pessimistes vis à vis des thématiques abordées dans cette série de question. Les Londoniens tendent eux à plus d'optimistes. Dans les deux cas, il est important de noter qu'on ne retrouve pas réellement une géographie des résultats qui permet d'avoir une conclusion spatiale généralisée à chaque espace d'enquête.
 :::
 
 ## Des conclusions à l'étude ?

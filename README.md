@@ -18,6 +18,3 @@ Ce site a pour objectif d'apporter des éléments de compréhension des résulta
   <td><img title="logo_IPSOS.svg" src="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_de_l%27Ipsos.svg/1200px-Logo_de_l%27Ipsos.svg.png" alt="logo IPSOS.svg" width="75px" /></td>
   </tr>
 </table>
-
-
-<img title="logo_CNRS_1.png" src="https://sigr2020.sciencesconf.org/data/pages/logo_CNRS_1.png" alt="logo du CNRS" width="75px" />

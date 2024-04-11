@@ -14,5 +14,5 @@ navbar:
       href: about.html
   right:
     - icon: fa-github
-      href: https://github.com/VincentHoar/enquete
+      href: https://github.com/riatecom/les-capitales-et-le-covid
 output_dir: "docs"

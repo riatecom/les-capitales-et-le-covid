@@ -9,6 +9,13 @@ Les résultats seront présentés en utilisant les thématiques abordées par IP
 Ce site a pour objectif d'apporter des éléments de compréhension des résultats de l'enquête d'un point de vue spatiale et d'en dégager une géographie des perceptions des habitants de ces deux capitales européennes après la pandémie. Pour ce faire, l'analyse reposera principalement sur des représentations cartographiques ainsi que sur quelques traitements statistiques.
 
 
+Réalisation du site web : Vincent Hoareau[^1] et Timothée Giraud[^2]  
+
+
+[^1]: Master 1 Géoprisme (2021-2022)
+[^2]: UAR RIATE  
+  
+
 <table>
   <tr>
     <td> <img title="logo_CNRS_1.png" src="https://sigr2020.sciencesconf.org/data/pages/logo_CNRS_1.png" alt="logo du CNRS" width="75px" /> </td>
